@@ -21,7 +21,7 @@ zomato-eda/
 ├── zomato_eda.py           # Main EDA script
 ├── README.md               # Project documentation
 │
-└── plots/
+└── Plots/
     ├── 01_rating_distribution.png
     ├── 02_online_order_vs_rating.png
     ├── 03_top_locations.png
