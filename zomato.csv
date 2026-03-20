@@ -1,0 +1,1001 @@
+name,online_order,book_table,rate,votes,approx_cost(for two people),listed_in(type),listed_in(city),cuisines
+Restaurant_0,Yes,Yes,3.5,1333,400.0,Fine Dining,Electronic City,North Indian
+Restaurant_1,No,No,,494,150.0,Fine Dining,Whitefield,South Indian
+Restaurant_2,No,No,2.6,555,200.0,Casual Dining,Electronic City,South Indian
+Restaurant_3,Yes,No,3.9,609,300.0,Casual Dining,Marathahalli,Fast Food
+Restaurant_4,Yes,No,,1796,400.0,Fine Dining,Bannerghatta Road,Continental
+Restaurant_5,Yes,No,2.9,108,800.0,Delivery,MG Road,Seafood
+Restaurant_6,Yes,No,3.6,1818,1200.0,Delivery,Bannerghatta Road,Chinese
+Restaurant_7,No,No,3.7,371,150.0,Cafe,BTM Layout,Chinese
+Restaurant_8,Yes,Yes,3.1,854,250.0,Dessert Parlor,MG Road,Chinese
+Restaurant_9,No,No,3.3,615,400.0,Cafe,BTM Layout,Fast Food
+Restaurant_10,Yes,Yes,2.7,767,250.0,Dessert Parlor,HSR Layout,Cafe
+Restaurant_11,No,No,3.2,1914,300.0,Casual Dining,Marathahalli,Biryani
+Restaurant_12,No,No,4.8,205,250.0,Quick Bites,HSR Layout,Continental
+Restaurant_13,Yes,Yes,4.8,846,300.0,Cafe,Indiranagar,Continental
+Restaurant_14,Yes,No,3.3,42,150.0,Cafe,Bannerghatta Road,Seafood
+Restaurant_15,Yes,No,3.9,864,1500.0,Dessert Parlor,BTM Layout,South Indian
+Restaurant_16,Yes,Yes,4.7,1268,700.0,Bakery,Jayanagar,North Indian
+Restaurant_17,Yes,No,2.5,1310,300.0,Casual Dining,HSR Layout,Bakery
+Restaurant_18,Yes,No,4.4,1378,600.0,Casual Dining,Indiranagar,South Indian
+Restaurant_19,Yes,Yes,4.8,784,200.0,Bar,Koramangala,Cafe
+Restaurant_20,Yes,No,,475,200.0,Bakery,Electronic City,Bakery
+Restaurant_21,Yes,Yes,2.9,82,500.0,Dessert Parlor,MG Road,Continental
+Restaurant_22,Yes,No,4.8,1133,200.0,Casual Dining,Indiranagar,Cafe
+Restaurant_23,Yes,No,3.8,1973,,Bakery,Marathahalli,Bakery
+Restaurant_24,Yes,No,2.5,189,1200.0,Fine Dining,HSR Layout,Seafood
+Restaurant_25,No,No,3.1,799,200.0,Bakery,Marathahalli,Seafood
+Restaurant_26,Yes,No,,935,300.0,Delivery,Electronic City,Italian
+Restaurant_27,Yes,No,4.2,1932,600.0,Bar,Jayanagar,Biryani
+Restaurant_28,Yes,No,4.3,250,700.0,Fine Dining,Bannerghatta Road,Seafood
+Restaurant_29,Yes,No,4.9,1747,250.0,Quick Bites,Bannerghatta Road,Continental
+Restaurant_30,Yes,Yes,3.2,290,800.0,Cafe,Marathahalli,North Indian
+Restaurant_31,Yes,No,3.8,1668,200.0,Bar,BTM Layout,Chinese
+Restaurant_32,Yes,Yes,3.8,1224,700.0,Quick Bites,Jayanagar,Italian
+Restaurant_33,No,Yes,3.5,1820,,Cafe,Bannerghatta Road,Chinese
+Restaurant_34,No,Yes,2.9,325,300.0,Delivery,Jayanagar,Biryani
+Restaurant_35,No,No,4.8,1534,150.0,Bakery,Indiranagar,Bakery
+Restaurant_36,Yes,No,4.5,1432,150.0,Casual Dining,Jayanagar,Fast Food
+Restaurant_37,Yes,No,3.7,1630,200.0,Fine Dining,Whitefield,Seafood
+Restaurant_38,No,Yes,3.9,1813,1500.0,Dessert Parlor,Electronic City,North Indian
+Restaurant_39,Yes,No,,1985,800.0,Fine Dining,Bannerghatta Road,Biryani
+Restaurant_40,Yes,No,3.8,1964,200.0,Delivery,Jayanagar,Chinese
+Restaurant_41,Yes,No,4.2,836,200.0,Quick Bites,Marathahalli,Italian
+Restaurant_42,Yes,No,3.7,507,500.0,Dessert Parlor,Koramangala,Seafood
+Restaurant_43,No,No,4.9,730,600.0,Casual Dining,Whitefield,Continental
+Restaurant_44,Yes,No,4.0,1624,600.0,Delivery,Whitefield,Seafood
+Restaurant_45,No,No,3.4,71,800.0,Dessert Parlor,BTM Layout,Italian
+Restaurant_46,Yes,Yes,4.4,1270,500.0,Delivery,Jayanagar,Italian
+Restaurant_47,Yes,Yes,2.9,640,700.0,Bakery,BTM Layout,Fast Food
+Restaurant_48,Yes,No,3.4,1747,1200.0,Delivery,BTM Layout,Seafood
+Restaurant_49,Yes,Yes,,939,500.0,Casual Dining,Koramangala,Seafood
+Restaurant_50,No,No,3.5,1878,200.0,Bar,Indiranagar,Fast Food
+Restaurant_51,No,No,4.4,607,150.0,Cafe,Jayanagar,Cafe
+Restaurant_52,No,No,3.7,1610,400.0,Dessert Parlor,HSR Layout,Cafe
+Restaurant_53,No,No,4.4,1958,800.0,Bakery,Bannerghatta Road,Bakery
+Restaurant_54,Yes,No,,565,700.0,Casual Dining,BTM Layout,Cafe
+Restaurant_55,No,No,3.3,1367,300.0,Delivery,Electronic City,South Indian
+Restaurant_56,Yes,No,4.4,1994,400.0,Bakery,MG Road,Seafood
+Restaurant_57,Yes,No,3.1,1948,400.0,Casual Dining,Electronic City,North Indian
+Restaurant_58,Yes,No,3.0,53,500.0,Bar,Koramangala,Seafood
+Restaurant_59,Yes,No,3.7,1753,250.0,Bakery,Koramangala,South Indian
+Restaurant_60,Yes,No,,527,400.0,Bakery,Marathahalli,South Indian
+Restaurant_61,Yes,No,2.5,610,200.0,Cafe,Indiranagar,Chinese
+Restaurant_62,No,No,4.1,1555,1000.0,Fine Dining,Bannerghatta Road,Seafood
+Restaurant_63,Yes,No,,1581,150.0,Dessert Parlor,BTM Layout,Biryani
+Restaurant_64,Yes,No,3.6,1986,1200.0,Cafe,Electronic City,South Indian
+Restaurant_65,Yes,No,4.8,192,150.0,Quick Bites,MG Road,North Indian
+Restaurant_66,Yes,Yes,,1918,1000.0,Dessert Parlor,Koramangala,Fast Food
+Restaurant_67,No,Yes,4.6,57,600.0,Cafe,Koramangala,Bakery
+Restaurant_68,Yes,No,,1460,200.0,Delivery,Indiranagar,Chinese
+Restaurant_69,No,Yes,3.9,1134,300.0,Dessert Parlor,MG Road,Fast Food
+Restaurant_70,No,Yes,4.6,128,400.0,Dessert Parlor,MG Road,Chinese
+Restaurant_71,Yes,Yes,3.9,1872,600.0,Casual Dining,Indiranagar,North Indian
+Restaurant_72,Yes,Yes,4.2,705,200.0,Delivery,Koramangala,Italian
+Restaurant_73,No,Yes,3.4,1948,500.0,Quick Bites,Bannerghatta Road,Seafood
+Restaurant_74,No,No,2.7,851,,Fine Dining,Jayanagar,Continental
+Restaurant_75,No,No,3.6,1349,600.0,Bakery,Jayanagar,Biryani
+Restaurant_76,No,No,3.4,7,800.0,Bar,Indiranagar,Fast Food
+Restaurant_77,Yes,No,4.6,28,400.0,Cafe,MG Road,Seafood
+Restaurant_78,Yes,Yes,3.1,1135,400.0,Casual Dining,BTM Layout,Biryani
+Restaurant_79,Yes,No,4.8,946,300.0,Cafe,Indiranagar,Italian
+Restaurant_80,No,No,4.8,1696,250.0,Quick Bites,Bannerghatta Road,Continental
+Restaurant_81,Yes,Yes,3.1,130,800.0,Bakery,Indiranagar,Biryani
+Restaurant_82,Yes,No,3.3,187,400.0,Quick Bites,Whitefield,Biryani
+Restaurant_83,Yes,No,4.6,1698,700.0,Dessert Parlor,Electronic City,Fast Food
+Restaurant_84,Yes,No,4.8,708,800.0,Bar,MG Road,Cafe
+Restaurant_85,Yes,No,3.6,1498,400.0,Quick Bites,Marathahalli,Continental
+Restaurant_86,No,No,,1387,1000.0,Cafe,Marathahalli,Seafood
+Restaurant_87,Yes,Yes,3.8,1227,800.0,Delivery,MG Road,Italian
+Restaurant_88,No,No,4.2,211,200.0,Delivery,Bannerghatta Road,Continental
+Restaurant_89,Yes,Yes,3.2,1644,800.0,Dessert Parlor,Whitefield,North Indian
+Restaurant_90,Yes,No,4.3,275,1200.0,Fine Dining,Whitefield,Cafe
+Restaurant_91,No,No,2.6,1096,300.0,Cafe,Koramangala,North Indian
+Restaurant_92,No,No,2.6,1702,500.0,Cafe,Electronic City,Italian
+Restaurant_93,Yes,No,3.4,1795,500.0,Quick Bites,Jayanagar,Fast Food
+Restaurant_94,No,Yes,,242,500.0,Bar,HSR Layout,Fast Food
+Restaurant_95,Yes,Yes,3.3,1810,200.0,Cafe,Bannerghatta Road,Italian
+Restaurant_96,Yes,Yes,3.7,1125,600.0,Casual Dining,HSR Layout,Chinese
+Restaurant_97,Yes,Yes,3.3,986,500.0,Fine Dining,HSR Layout,Italian
+Restaurant_98,Yes,No,3.0,684,1200.0,Quick Bites,MG Road,Cafe
+Restaurant_99,Yes,No,3.2,170,150.0,Casual Dining,Marathahalli,South Indian
+Restaurant_100,Yes,Yes,4.8,652,200.0,Dessert Parlor,Marathahalli,Fast Food
+Restaurant_101,Yes,No,3.5,1932,,Delivery,Jayanagar,Bakery
+Restaurant_102,Yes,No,3.6,187,150.0,Dessert Parlor,MG Road,Cafe
+Restaurant_103,Yes,No,3.9,1464,150.0,Delivery,HSR Layout,Cafe
+Restaurant_104,No,No,4.9,1109,150.0,Dessert Parlor,BTM Layout,Cafe
+Restaurant_105,Yes,Yes,3.1,1499,700.0,Cafe,Marathahalli,Biryani
+Restaurant_106,Yes,No,4.1,51,300.0,Casual Dining,Bannerghatta Road,Cafe
+Restaurant_107,No,No,4.2,110,300.0,Delivery,Bannerghatta Road,Fast Food
+Restaurant_108,Yes,No,4.0,1972,200.0,Quick Bites,Koramangala,South Indian
+Restaurant_109,Yes,Yes,2.7,876,1200.0,Casual Dining,Indiranagar,South Indian
+Restaurant_110,Yes,No,4.1,1877,1200.0,Quick Bites,BTM Layout,Cafe
+Restaurant_111,Yes,Yes,2.7,1066,1200.0,Casual Dining,Marathahalli,North Indian
+Restaurant_112,No,Yes,3.9,210,150.0,Casual Dining,Whitefield,Fast Food
+Restaurant_113,No,No,4.3,1991,1500.0,Dessert Parlor,Marathahalli,Fast Food
+Restaurant_114,Yes,No,3.0,1223,1000.0,Delivery,Koramangala,Continental
+Restaurant_115,No,No,4.5,1833,800.0,Delivery,Bannerghatta Road,Seafood
+Restaurant_116,No,Yes,2.6,857,600.0,Bar,HSR Layout,Chinese
+Restaurant_117,Yes,No,4.5,1775,300.0,Casual Dining,Whitefield,Chinese
+Restaurant_118,No,Yes,3.6,626,1500.0,Cafe,MG Road,North Indian
+Restaurant_119,Yes,Yes,3.0,1049,500.0,Cafe,Electronic City,Chinese
+Restaurant_120,No,No,2.8,1942,200.0,Quick Bites,HSR Layout,Continental
+Restaurant_121,No,No,4.8,298,600.0,Quick Bites,Electronic City,Italian
+Restaurant_122,Yes,No,2.7,1100,200.0,Dessert Parlor,BTM Layout,Chinese
+Restaurant_123,Yes,No,,923,1000.0,Casual Dining,Indiranagar,Fast Food
+Restaurant_124,Yes,No,3.3,136,700.0,Quick Bites,Whitefield,Italian
+Restaurant_125,Yes,No,4.0,1043,700.0,Quick Bites,Jayanagar,Chinese
+Restaurant_126,No,Yes,3.8,439,150.0,Fine Dining,Whitefield,Fast Food
+Restaurant_127,No,No,2.8,210,700.0,Casual Dining,Marathahalli,Fast Food
+Restaurant_128,Yes,No,3.2,751,200.0,Bakery,Bannerghatta Road,Cafe
+Restaurant_129,Yes,Yes,3.1,1574,,Dessert Parlor,Marathahalli,South Indian
+Restaurant_130,Yes,No,3.0,434,150.0,Quick Bites,Marathahalli,North Indian
+Restaurant_131,Yes,No,3.5,779,400.0,Dessert Parlor,BTM Layout,Continental
+Restaurant_132,Yes,Yes,4.2,1230,,Delivery,HSR Layout,Biryani
+Restaurant_133,Yes,Yes,3.0,438,600.0,Dessert Parlor,Jayanagar,Seafood
+Restaurant_134,No,No,3.4,1997,1000.0,Bakery,Jayanagar,Chinese
+Restaurant_135,Yes,Yes,3.4,1802,150.0,Cafe,Marathahalli,Chinese
+Restaurant_136,Yes,No,,665,200.0,Bakery,Electronic City,Italian
+Restaurant_137,No,No,4.8,1065,600.0,Cafe,BTM Layout,Italian
+Restaurant_138,Yes,No,4.4,410,500.0,Dessert Parlor,Marathahalli,Seafood
+Restaurant_139,No,No,3.1,1546,250.0,Cafe,Indiranagar,Chinese
+Restaurant_140,No,No,2.7,805,1000.0,Delivery,Bannerghatta Road,Bakery
+Restaurant_141,Yes,No,3.3,609,200.0,Casual Dining,HSR Layout,Continental
+Restaurant_142,Yes,No,,426,1000.0,Cafe,MG Road,Chinese
+Restaurant_143,Yes,No,3.7,1298,300.0,Cafe,Indiranagar,South Indian
+Restaurant_144,Yes,Yes,4.4,1471,250.0,Dessert Parlor,Electronic City,Seafood
+Restaurant_145,Yes,No,4.6,901,600.0,Delivery,Whitefield,Bakery
+Restaurant_146,Yes,No,4.5,941,700.0,Bar,Whitefield,Continental
+Restaurant_147,Yes,No,3.4,1907,200.0,Bar,Indiranagar,Chinese
+Restaurant_148,Yes,No,4.1,741,1000.0,Bar,Marathahalli,Biryani
+Restaurant_149,Yes,No,3.3,1392,600.0,Bar,MG Road,Cafe
+Restaurant_150,No,No,,1961,700.0,Casual Dining,Koramangala,South Indian
+Restaurant_151,Yes,No,4.2,1243,500.0,Bakery,Koramangala,Biryani
+Restaurant_152,Yes,No,2.5,1600,500.0,Dessert Parlor,Electronic City,Italian
+Restaurant_153,Yes,No,3.5,1890,1000.0,Dessert Parlor,Marathahalli,Italian
+Restaurant_154,No,No,3.3,1255,150.0,Fine Dining,Jayanagar,Chinese
+Restaurant_155,Yes,No,4.2,327,300.0,Delivery,Jayanagar,Italian
+Restaurant_156,No,Yes,,1466,150.0,Bar,HSR Layout,South Indian
+Restaurant_157,No,No,3.2,51,300.0,Casual Dining,MG Road,Continental
+Restaurant_158,Yes,No,4.4,1909,200.0,Delivery,MG Road,Fast Food
+Restaurant_159,No,Yes,3.2,1966,1200.0,Bar,Whitefield,North Indian
+Restaurant_160,Yes,No,3.6,375,400.0,Casual Dining,BTM Layout,Seafood
+Restaurant_161,Yes,Yes,4.2,262,1000.0,Delivery,Electronic City,Continental
+Restaurant_162,Yes,No,4.2,266,800.0,Dessert Parlor,Koramangala,Fast Food
+Restaurant_163,Yes,No,4.9,358,1200.0,Dessert Parlor,Electronic City,Bakery
+Restaurant_164,Yes,Yes,3.0,1340,1500.0,Bakery,Jayanagar,South Indian
+Restaurant_165,No,No,4.1,1347,1000.0,Quick Bites,Jayanagar,Biryani
+Restaurant_166,Yes,No,4.0,1944,250.0,Bakery,Indiranagar,Fast Food
+Restaurant_167,Yes,No,4.7,1931,700.0,Cafe,HSR Layout,South Indian
+Restaurant_168,Yes,Yes,2.9,1689,250.0,Bakery,MG Road,Cafe
+Restaurant_169,Yes,Yes,4.3,1893,500.0,Bar,Bannerghatta Road,Biryani
+Restaurant_170,No,No,3.9,1901,300.0,Fine Dining,Electronic City,Italian
+Restaurant_171,Yes,No,3.2,651,700.0,Delivery,Jayanagar,Italian
+Restaurant_172,Yes,No,3.6,1962,1200.0,Fine Dining,BTM Layout,Biryani
+Restaurant_173,Yes,Yes,,1586,500.0,Quick Bites,Whitefield,Bakery
+Restaurant_174,Yes,No,3.9,1652,700.0,Cafe,Koramangala,Bakery
+Restaurant_175,Yes,No,4.6,1444,150.0,Delivery,HSR Layout,Bakery
+Restaurant_176,No,No,3.9,45,500.0,Casual Dining,BTM Layout,Fast Food
+Restaurant_177,Yes,Yes,4.0,1844,150.0,Bar,HSR Layout,Seafood
+Restaurant_178,No,No,3.7,599,150.0,Cafe,Indiranagar,Fast Food
+Restaurant_179,Yes,No,2.6,719,700.0,Dessert Parlor,Bannerghatta Road,Chinese
+Restaurant_180,Yes,No,3.1,1912,600.0,Quick Bites,Jayanagar,North Indian
+Restaurant_181,Yes,No,3.7,1292,250.0,Cafe,Whitefield,Biryani
+Restaurant_182,No,No,3.2,600,500.0,Bar,BTM Layout,Continental
+Restaurant_183,No,No,2.9,380,800.0,Bakery,HSR Layout,North Indian
+Restaurant_184,Yes,Yes,,117,600.0,Cafe,MG Road,Cafe
+Restaurant_185,No,No,3.3,1589,1500.0,Bakery,Indiranagar,Fast Food
+Restaurant_186,No,No,3.1,1976,250.0,Bar,MG Road,Fast Food
+Restaurant_187,Yes,Yes,3.6,115,500.0,Dessert Parlor,Whitefield,South Indian
+Restaurant_188,Yes,No,2.8,1653,1200.0,Delivery,BTM Layout,North Indian
+Restaurant_189,Yes,No,4.7,259,300.0,Casual Dining,Indiranagar,South Indian
+Restaurant_190,Yes,Yes,4.6,1098,250.0,Dessert Parlor,BTM Layout,Continental
+Restaurant_191,No,No,4.2,1503,800.0,Bakery,Jayanagar,South Indian
+Restaurant_192,No,No,2.8,304,1000.0,Bakery,Marathahalli,North Indian
+Restaurant_193,Yes,No,4.4,6,200.0,Casual Dining,Indiranagar,Biryani
+Restaurant_194,Yes,Yes,4.4,365,150.0,Delivery,MG Road,Cafe
+Restaurant_195,Yes,No,4.3,1657,200.0,Cafe,Whitefield,Fast Food
+Restaurant_196,No,No,2.8,522,600.0,Casual Dining,Bannerghatta Road,Continental
+Restaurant_197,No,No,4.0,1371,1000.0,Quick Bites,Jayanagar,Fast Food
+Restaurant_198,No,No,4.5,1461,150.0,Quick Bites,Marathahalli,Chinese
+Restaurant_199,No,Yes,3.9,1238,500.0,Bar,Bannerghatta Road,Cafe
+Restaurant_200,Yes,No,4.1,428,600.0,Dessert Parlor,Koramangala,Seafood
+Restaurant_201,Yes,Yes,3.6,790,800.0,Bakery,Jayanagar,South Indian
+Restaurant_202,Yes,Yes,3.8,1521,700.0,Delivery,Whitefield,Italian
+Restaurant_203,No,No,2.6,1563,500.0,Bar,HSR Layout,North Indian
+Restaurant_204,Yes,No,4.0,746,250.0,Dessert Parlor,Indiranagar,Fast Food
+Restaurant_205,Yes,No,,366,700.0,Dessert Parlor,BTM Layout,South Indian
+Restaurant_206,Yes,No,3.5,312,600.0,Bar,Whitefield,Continental
+Restaurant_207,No,No,3.2,537,250.0,Fine Dining,Indiranagar,Fast Food
+Restaurant_208,Yes,Yes,3.8,920,800.0,Dessert Parlor,Bannerghatta Road,Seafood
+Restaurant_209,Yes,No,2.8,1077,1500.0,Fine Dining,BTM Layout,Cafe
+Restaurant_210,Yes,No,4.2,1564,200.0,Quick Bites,Electronic City,Cafe
+Restaurant_211,No,No,4.4,1490,250.0,Quick Bites,MG Road,Fast Food
+Restaurant_212,No,Yes,2.9,864,200.0,Dessert Parlor,Koramangala,Continental
+Restaurant_213,Yes,No,2.8,1187,150.0,Quick Bites,Jayanagar,Cafe
+Restaurant_214,No,No,2.8,781,300.0,Delivery,Whitefield,Cafe
+Restaurant_215,Yes,Yes,4.6,333,400.0,Fine Dining,Koramangala,Seafood
+Restaurant_216,Yes,Yes,3.8,1570,500.0,Fine Dining,HSR Layout,North Indian
+Restaurant_217,No,No,3.6,797,400.0,Dessert Parlor,Indiranagar,Continental
+Restaurant_218,Yes,No,2.8,347,150.0,Quick Bites,Indiranagar,Continental
+Restaurant_219,No,Yes,4.1,272,250.0,Casual Dining,Whitefield,Biryani
+Restaurant_220,No,No,4.6,962,150.0,Bakery,Marathahalli,Biryani
+Restaurant_221,Yes,Yes,,719,1200.0,Bar,Marathahalli,Cafe
+Restaurant_222,Yes,No,4.0,1773,400.0,Bar,Electronic City,Italian
+Restaurant_223,Yes,No,2.7,1437,400.0,Fine Dining,MG Road,Biryani
+Restaurant_224,Yes,No,2.8,499,1500.0,Dessert Parlor,BTM Layout,Cafe
+Restaurant_225,Yes,No,2.6,1116,1200.0,Dessert Parlor,HSR Layout,Bakery
+Restaurant_226,No,No,,684,500.0,Delivery,Koramangala,Chinese
+Restaurant_227,Yes,Yes,2.8,78,700.0,Cafe,Marathahalli,Chinese
+Restaurant_228,No,No,3.1,621,1000.0,Bakery,Electronic City,Continental
+Restaurant_229,Yes,No,3.4,1240,1500.0,Cafe,Electronic City,Italian
+Restaurant_230,No,No,4.8,946,150.0,Fine Dining,Whitefield,Seafood
+Restaurant_231,Yes,Yes,4.0,357,300.0,Bar,HSR Layout,North Indian
+Restaurant_232,Yes,Yes,4.5,617,1000.0,Delivery,Bannerghatta Road,Biryani
+Restaurant_233,Yes,Yes,4.2,506,1200.0,Delivery,BTM Layout,Bakery
+Restaurant_234,Yes,No,2.8,1582,150.0,Delivery,MG Road,Cafe
+Restaurant_235,No,No,4.3,1204,800.0,Fine Dining,Jayanagar,Italian
+Restaurant_236,Yes,No,3.2,575,1200.0,Cafe,Whitefield,Continental
+Restaurant_237,Yes,No,4.0,1269,600.0,Bar,BTM Layout,Biryani
+Restaurant_238,Yes,No,3.3,243,600.0,Delivery,Jayanagar,Italian
+Restaurant_239,Yes,Yes,4.9,505,1500.0,Bar,Jayanagar,Biryani
+Restaurant_240,No,No,3.1,421,400.0,Quick Bites,HSR Layout,North Indian
+Restaurant_241,No,No,3.2,1343,600.0,Dessert Parlor,HSR Layout,North Indian
+Restaurant_242,No,No,4.7,1110,1500.0,Dessert Parlor,Koramangala,Seafood
+Restaurant_243,Yes,No,2.6,216,200.0,Bar,Electronic City,Chinese
+Restaurant_244,Yes,No,4.2,1513,300.0,Casual Dining,BTM Layout,South Indian
+Restaurant_245,No,No,4.2,1542,600.0,Casual Dining,Whitefield,South Indian
+Restaurant_246,Yes,Yes,4.5,1301,250.0,Fine Dining,Indiranagar,Biryani
+Restaurant_247,No,Yes,,1872,200.0,Fine Dining,Whitefield,Seafood
+Restaurant_248,No,No,4.8,1745,1000.0,Dessert Parlor,Koramangala,South Indian
+Restaurant_249,No,No,2.7,1008,200.0,Quick Bites,MG Road,Continental
+Restaurant_250,Yes,No,4.5,1192,150.0,Bakery,Electronic City,South Indian
+Restaurant_251,Yes,No,4.1,329,400.0,Cafe,Indiranagar,Fast Food
+Restaurant_252,No,Yes,4.1,649,1500.0,Cafe,Marathahalli,Cafe
+Restaurant_253,Yes,Yes,2.8,1464,500.0,Fine Dining,MG Road,Seafood
+Restaurant_254,Yes,No,,390,500.0,Quick Bites,HSR Layout,Continental
+Restaurant_255,Yes,No,,1519,,Fine Dining,Jayanagar,Italian
+Restaurant_256,No,Yes,4.7,380,300.0,Bakery,Marathahalli,Continental
+Restaurant_257,No,No,3.6,1329,150.0,Cafe,Whitefield,Chinese
+Restaurant_258,Yes,Yes,,741,500.0,Bar,Whitefield,Italian
+Restaurant_259,Yes,No,3.4,819,400.0,Fine Dining,HSR Layout,Bakery
+Restaurant_260,Yes,Yes,4.5,672,1000.0,Delivery,Koramangala,Cafe
+Restaurant_261,No,No,4.2,512,,Bar,BTM Layout,Cafe
+Restaurant_262,Yes,No,3.6,1771,250.0,Bakery,Marathahalli,Cafe
+Restaurant_263,Yes,No,,948,,Bakery,Marathahalli,Cafe
+Restaurant_264,No,Yes,3.5,1211,500.0,Fine Dining,Bannerghatta Road,Biryani
+Restaurant_265,No,Yes,3.6,929,150.0,Dessert Parlor,MG Road,Cafe
+Restaurant_266,No,No,4.7,1539,600.0,Fine Dining,Electronic City,Cafe
+Restaurant_267,No,No,4.0,912,600.0,Dessert Parlor,MG Road,Cafe
+Restaurant_268,Yes,No,3.2,643,1000.0,Bakery,BTM Layout,Seafood
+Restaurant_269,Yes,Yes,3.8,426,600.0,Quick Bites,Whitefield,Biryani
+Restaurant_270,No,No,2.7,501,1500.0,Bakery,Whitefield,North Indian
+Restaurant_271,No,No,4.8,729,1200.0,Cafe,Whitefield,Continental
+Restaurant_272,No,No,,1283,1000.0,Bar,Bannerghatta Road,Continental
+Restaurant_273,No,Yes,3.6,1536,150.0,Bar,Whitefield,Italian
+Restaurant_274,Yes,No,3.4,70,300.0,Casual Dining,BTM Layout,Seafood
+Restaurant_275,Yes,Yes,4.1,477,600.0,Casual Dining,HSR Layout,Fast Food
+Restaurant_276,No,Yes,4.1,1201,1200.0,Bakery,Electronic City,Continental
+Restaurant_277,Yes,No,4.2,456,800.0,Cafe,BTM Layout,South Indian
+Restaurant_278,No,Yes,3.1,188,400.0,Casual Dining,Electronic City,Fast Food
+Restaurant_279,No,No,3.3,290,200.0,Bar,BTM Layout,Cafe
+Restaurant_280,No,No,2.8,1543,600.0,Fine Dining,Whitefield,Cafe
+Restaurant_281,Yes,No,4.1,1788,1000.0,Quick Bites,HSR Layout,Biryani
+Restaurant_282,Yes,No,2.6,919,150.0,Quick Bites,Marathahalli,Fast Food
+Restaurant_283,Yes,Yes,3.9,291,600.0,Cafe,MG Road,South Indian
+Restaurant_284,Yes,No,4.6,1969,500.0,Bakery,Jayanagar,Biryani
+Restaurant_285,Yes,No,4.6,755,600.0,Casual Dining,HSR Layout,Italian
+Restaurant_286,Yes,Yes,3.6,1658,1000.0,Fine Dining,Marathahalli,Fast Food
+Restaurant_287,Yes,No,3.6,1834,250.0,Quick Bites,Koramangala,Seafood
+Restaurant_288,Yes,Yes,2.7,1306,250.0,Quick Bites,BTM Layout,Cafe
+Restaurant_289,Yes,Yes,4.1,1567,600.0,Delivery,Koramangala,Cafe
+Restaurant_290,Yes,No,4.5,1869,200.0,Bakery,Marathahalli,Chinese
+Restaurant_291,Yes,Yes,3.1,376,150.0,Delivery,HSR Layout,Biryani
+Restaurant_292,No,No,3.5,1681,800.0,Bar,BTM Layout,North Indian
+Restaurant_293,Yes,No,4.5,1179,800.0,Quick Bites,Jayanagar,North Indian
+Restaurant_294,Yes,No,4.6,507,600.0,Cafe,Whitefield,Biryani
+Restaurant_295,Yes,Yes,3.1,1436,600.0,Dessert Parlor,BTM Layout,Seafood
+Restaurant_296,No,Yes,3.8,527,250.0,Dessert Parlor,BTM Layout,Bakery
+Restaurant_297,Yes,Yes,3.0,1378,1000.0,Fine Dining,HSR Layout,Biryani
+Restaurant_298,Yes,No,2.7,558,200.0,Quick Bites,HSR Layout,Seafood
+Restaurant_299,Yes,No,4.7,1786,1200.0,Quick Bites,Marathahalli,Italian
+Restaurant_300,Yes,Yes,4.5,1210,600.0,Bar,Indiranagar,Cafe
+Restaurant_301,Yes,No,4.3,1054,,Quick Bites,BTM Layout,South Indian
+Restaurant_302,Yes,Yes,2.6,259,,Cafe,MG Road,Bakery
+Restaurant_303,Yes,No,4.5,420,300.0,Delivery,BTM Layout,Fast Food
+Restaurant_304,No,No,3.6,1552,500.0,Quick Bites,Marathahalli,Bakery
+Restaurant_305,No,No,3.3,1574,600.0,Quick Bites,Electronic City,South Indian
+Restaurant_306,Yes,No,3.8,303,1000.0,Bar,Koramangala,Chinese
+Restaurant_307,Yes,No,2.7,941,600.0,Bakery,Whitefield,Cafe
+Restaurant_308,No,No,4.3,1967,1000.0,Casual Dining,Indiranagar,North Indian
+Restaurant_309,Yes,No,3.9,1062,200.0,Bakery,Jayanagar,Seafood
+Restaurant_310,Yes,Yes,2.9,1512,300.0,Bar,Jayanagar,Biryani
+Restaurant_311,Yes,No,3.0,1667,400.0,Bakery,Jayanagar,Biryani
+Restaurant_312,Yes,No,2.9,541,1500.0,Bar,HSR Layout,North Indian
+Restaurant_313,No,No,2.6,1693,150.0,Cafe,Jayanagar,Bakery
+Restaurant_314,No,No,3.9,1301,150.0,Fine Dining,Whitefield,Cafe
+Restaurant_315,No,No,4.5,1226,1000.0,Quick Bites,Koramangala,Continental
+Restaurant_316,Yes,No,2.5,1089,250.0,Bar,Jayanagar,Seafood
+Restaurant_317,Yes,No,2.6,107,1000.0,Bar,BTM Layout,Italian
+Restaurant_318,Yes,Yes,3.9,267,250.0,Casual Dining,BTM Layout,South Indian
+Restaurant_319,Yes,Yes,4.5,221,1500.0,Bar,HSR Layout,Bakery
+Restaurant_320,Yes,Yes,3.3,1827,700.0,Dessert Parlor,Whitefield,Fast Food
+Restaurant_321,No,Yes,,1553,800.0,Fine Dining,Koramangala,Chinese
+Restaurant_322,No,No,3.9,1113,1200.0,Quick Bites,Indiranagar,Biryani
+Restaurant_323,Yes,Yes,3.2,692,1500.0,Quick Bites,Marathahalli,Bakery
+Restaurant_324,No,No,2.6,254,150.0,Casual Dining,Koramangala,Chinese
+Restaurant_325,No,No,4.3,1478,,Cafe,Marathahalli,South Indian
+Restaurant_326,Yes,Yes,4.0,252,200.0,Quick Bites,Electronic City,Biryani
+Restaurant_327,Yes,No,3.9,256,1000.0,Dessert Parlor,Marathahalli,Biryani
+Restaurant_328,Yes,No,4.3,382,200.0,Quick Bites,MG Road,Continental
+Restaurant_329,Yes,No,4.1,441,300.0,Dessert Parlor,BTM Layout,Bakery
+Restaurant_330,Yes,No,3.0,1881,200.0,Fine Dining,Whitefield,Cafe
+Restaurant_331,No,No,3.3,598,600.0,Fine Dining,Bannerghatta Road,North Indian
+Restaurant_332,Yes,Yes,2.8,1113,800.0,Delivery,HSR Layout,North Indian
+Restaurant_333,Yes,No,2.8,1772,600.0,Delivery,MG Road,Italian
+Restaurant_334,Yes,No,4.1,389,1500.0,Dessert Parlor,Marathahalli,Fast Food
+Restaurant_335,Yes,No,4.6,581,500.0,Cafe,Jayanagar,Chinese
+Restaurant_336,No,Yes,4.8,1067,1000.0,Quick Bites,Whitefield,Bakery
+Restaurant_337,No,No,4.0,1735,150.0,Bar,MG Road,Seafood
+Restaurant_338,Yes,Yes,2.9,1687,1200.0,Quick Bites,HSR Layout,Fast Food
+Restaurant_339,Yes,Yes,2.8,597,1000.0,Delivery,BTM Layout,Continental
+Restaurant_340,Yes,Yes,4.5,18,800.0,Bakery,Whitefield,Biryani
+Restaurant_341,Yes,No,3.9,1124,400.0,Bar,HSR Layout,Cafe
+Restaurant_342,Yes,No,4.0,1937,1200.0,Dessert Parlor,Electronic City,Bakery
+Restaurant_343,Yes,No,4.4,606,400.0,Bar,Electronic City,Fast Food
+Restaurant_344,Yes,No,4.2,1789,500.0,Bakery,HSR Layout,Fast Food
+Restaurant_345,Yes,No,4.5,1380,800.0,Quick Bites,MG Road,Cafe
+Restaurant_346,Yes,No,,1565,,Quick Bites,Whitefield,Italian
+Restaurant_347,Yes,No,4.3,1784,700.0,Cafe,MG Road,Chinese
+Restaurant_348,Yes,No,4.5,1961,700.0,Casual Dining,Indiranagar,Chinese
+Restaurant_349,Yes,Yes,3.2,32,150.0,Bar,Marathahalli,Fast Food
+Restaurant_350,Yes,No,4.0,1993,150.0,Delivery,Indiranagar,South Indian
+Restaurant_351,No,No,,1252,700.0,Bakery,Electronic City,Fast Food
+Restaurant_352,No,No,4.8,1547,400.0,Bakery,BTM Layout,Fast Food
+Restaurant_353,Yes,No,2.6,1653,,Bakery,Koramangala,Cafe
+Restaurant_354,Yes,No,3.9,861,200.0,Delivery,Marathahalli,Biryani
+Restaurant_355,Yes,No,2.9,154,800.0,Casual Dining,Electronic City,Cafe
+Restaurant_356,Yes,No,4.2,1446,1500.0,Quick Bites,MG Road,Bakery
+Restaurant_357,Yes,No,,904,700.0,Cafe,MG Road,Fast Food
+Restaurant_358,No,Yes,3.1,1269,800.0,Cafe,MG Road,Chinese
+Restaurant_359,Yes,No,3.7,404,300.0,Delivery,BTM Layout,Seafood
+Restaurant_360,Yes,No,4.7,843,150.0,Cafe,Indiranagar,Chinese
+Restaurant_361,Yes,Yes,3.0,1782,150.0,Bakery,Koramangala,North Indian
+Restaurant_362,Yes,No,2.8,1564,400.0,Fine Dining,MG Road,Italian
+Restaurant_363,Yes,No,,1184,200.0,Casual Dining,Bannerghatta Road,Continental
+Restaurant_364,No,No,3.7,746,700.0,Quick Bites,Marathahalli,Bakery
+Restaurant_365,Yes,Yes,,1725,1000.0,Fine Dining,Whitefield,Bakery
+Restaurant_366,No,No,2.9,1140,1200.0,Casual Dining,Bannerghatta Road,Italian
+Restaurant_367,No,No,4.1,270,400.0,Dessert Parlor,Koramangala,Seafood
+Restaurant_368,Yes,Yes,3.1,769,400.0,Bar,BTM Layout,Continental
+Restaurant_369,Yes,Yes,2.9,1715,200.0,Delivery,Koramangala,Biryani
+Restaurant_370,Yes,No,4.1,1510,600.0,Bakery,Whitefield,Fast Food
+Restaurant_371,Yes,Yes,3.9,1908,700.0,Cafe,Marathahalli,Continental
+Restaurant_372,Yes,No,4.3,171,1000.0,Dessert Parlor,Whitefield,Seafood
+Restaurant_373,No,No,3.2,1973,150.0,Cafe,HSR Layout,South Indian
+Restaurant_374,Yes,Yes,3.6,273,200.0,Fine Dining,Marathahalli,North Indian
+Restaurant_375,Yes,No,3.5,258,1000.0,Quick Bites,Koramangala,Continental
+Restaurant_376,No,No,4.9,1158,300.0,Quick Bites,MG Road,Continental
+Restaurant_377,Yes,No,3.2,1706,400.0,Quick Bites,Koramangala,North Indian
+Restaurant_378,No,No,3.2,1745,200.0,Bakery,Koramangala,Fast Food
+Restaurant_379,Yes,No,3.4,1771,150.0,Cafe,Marathahalli,Continental
+Restaurant_380,Yes,Yes,3.9,421,800.0,Dessert Parlor,HSR Layout,North Indian
+Restaurant_381,No,No,3.1,1444,150.0,Quick Bites,Koramangala,North Indian
+Restaurant_382,Yes,No,4.7,1209,300.0,Dessert Parlor,Bannerghatta Road,North Indian
+Restaurant_383,No,Yes,3.1,1952,200.0,Cafe,Electronic City,Cafe
+Restaurant_384,No,No,4.6,363,1200.0,Bakery,Jayanagar,Seafood
+Restaurant_385,No,No,2.7,1978,300.0,Fine Dining,Jayanagar,Cafe
+Restaurant_386,Yes,No,4.1,1630,700.0,Bakery,Koramangala,South Indian
+Restaurant_387,Yes,Yes,4.7,377,700.0,Dessert Parlor,Bannerghatta Road,Biryani
+Restaurant_388,No,No,2.9,1546,1200.0,Bakery,MG Road,Cafe
+Restaurant_389,No,No,4.8,579,1500.0,Bakery,BTM Layout,Cafe
+Restaurant_390,No,Yes,3.6,890,800.0,Fine Dining,BTM Layout,Seafood
+Restaurant_391,Yes,Yes,4.8,721,1200.0,Cafe,Marathahalli,Biryani
+Restaurant_392,Yes,Yes,4.1,1219,1500.0,Cafe,Jayanagar,Italian
+Restaurant_393,No,No,3.2,880,400.0,Delivery,Koramangala,North Indian
+Restaurant_394,Yes,No,3.0,1121,600.0,Bakery,BTM Layout,Bakery
+Restaurant_395,No,No,3.2,604,,Cafe,Koramangala,Biryani
+Restaurant_396,No,No,,21,1000.0,Cafe,Marathahalli,South Indian
+Restaurant_397,Yes,Yes,2.8,1473,,Casual Dining,Jayanagar,Fast Food
+Restaurant_398,No,No,2.8,1195,1000.0,Quick Bites,Whitefield,South Indian
+Restaurant_399,No,No,,382,800.0,Delivery,Electronic City,North Indian
+Restaurant_400,Yes,Yes,4.4,133,1000.0,Bar,Electronic City,Biryani
+Restaurant_401,No,Yes,2.8,1449,1000.0,Delivery,BTM Layout,South Indian
+Restaurant_402,Yes,Yes,2.8,1048,1500.0,Delivery,Electronic City,South Indian
+Restaurant_403,No,No,4.0,502,150.0,Bar,Whitefield,Italian
+Restaurant_404,Yes,No,3.0,1208,200.0,Casual Dining,Koramangala,Italian
+Restaurant_405,No,No,2.7,1108,400.0,Bakery,Marathahalli,Biryani
+Restaurant_406,Yes,No,2.9,1590,250.0,Fine Dining,Whitefield,North Indian
+Restaurant_407,Yes,No,4.7,1786,200.0,Cafe,Marathahalli,Cafe
+Restaurant_408,No,No,4.5,143,150.0,Quick Bites,Marathahalli,Chinese
+Restaurant_409,Yes,No,3.3,1886,1000.0,Dessert Parlor,Jayanagar,Continental
+Restaurant_410,Yes,Yes,4.1,1933,250.0,Bakery,Koramangala,Bakery
+Restaurant_411,No,Yes,3.8,1702,150.0,Bar,Bannerghatta Road,Continental
+Restaurant_412,No,Yes,4.1,1435,1500.0,Fine Dining,Electronic City,Seafood
+Restaurant_413,Yes,Yes,,223,150.0,Bakery,Bannerghatta Road,Italian
+Restaurant_414,Yes,No,4.0,219,1500.0,Bar,Jayanagar,Biryani
+Restaurant_415,Yes,No,3.1,178,150.0,Cafe,Marathahalli,Continental
+Restaurant_416,Yes,Yes,2.6,1654,700.0,Casual Dining,BTM Layout,North Indian
+Restaurant_417,Yes,Yes,3.6,432,250.0,Bakery,Electronic City,Bakery
+Restaurant_418,No,No,4.6,264,1200.0,Bar,Electronic City,Continental
+Restaurant_419,No,No,3.9,953,150.0,Cafe,Koramangala,Bakery
+Restaurant_420,No,No,,428,600.0,Cafe,HSR Layout,Fast Food
+Restaurant_421,No,No,4.9,1685,1000.0,Casual Dining,Indiranagar,North Indian
+Restaurant_422,Yes,Yes,2.9,415,250.0,Delivery,Indiranagar,Chinese
+Restaurant_423,Yes,Yes,4.2,1476,700.0,Bakery,Indiranagar,South Indian
+Restaurant_424,Yes,No,4.1,726,300.0,Bakery,HSR Layout,Bakery
+Restaurant_425,Yes,No,4.9,196,300.0,Delivery,Koramangala,North Indian
+Restaurant_426,Yes,Yes,4.9,1577,400.0,Quick Bites,HSR Layout,Bakery
+Restaurant_427,No,No,4.1,1076,500.0,Quick Bites,Indiranagar,Bakery
+Restaurant_428,Yes,No,3.1,479,600.0,Delivery,Jayanagar,Cafe
+Restaurant_429,Yes,No,,1466,300.0,Fine Dining,Whitefield,Cafe
+Restaurant_430,Yes,No,2.8,1353,700.0,Dessert Parlor,Marathahalli,North Indian
+Restaurant_431,No,No,4.4,1274,500.0,Cafe,HSR Layout,Cafe
+Restaurant_432,Yes,No,4.7,1830,150.0,Dessert Parlor,Koramangala,Seafood
+Restaurant_433,Yes,No,3.4,889,150.0,Cafe,Koramangala,Chinese
+Restaurant_434,Yes,Yes,4.0,1806,800.0,Delivery,Bannerghatta Road,Biryani
+Restaurant_435,No,Yes,3.5,1990,1000.0,Quick Bites,Whitefield,North Indian
+Restaurant_436,Yes,No,3.6,924,500.0,Fine Dining,BTM Layout,North Indian
+Restaurant_437,No,No,3.2,122,,Quick Bites,Electronic City,Seafood
+Restaurant_438,No,Yes,4.3,1902,700.0,Dessert Parlor,Indiranagar,Italian
+Restaurant_439,Yes,No,4.7,1410,600.0,Quick Bites,BTM Layout,Italian
+Restaurant_440,Yes,No,4.8,1362,1500.0,Delivery,Bannerghatta Road,Cafe
+Restaurant_441,No,Yes,2.9,777,500.0,Fine Dining,Indiranagar,Biryani
+Restaurant_442,Yes,No,4.6,347,300.0,Dessert Parlor,Whitefield,Cafe
+Restaurant_443,Yes,No,4.3,28,600.0,Fine Dining,Bannerghatta Road,Fast Food
+Restaurant_444,No,No,3.1,974,800.0,Bakery,Indiranagar,Fast Food
+Restaurant_445,No,Yes,2.7,34,1200.0,Cafe,Whitefield,South Indian
+Restaurant_446,No,No,3.1,1541,1000.0,Quick Bites,MG Road,Fast Food
+Restaurant_447,No,No,4.7,1419,1000.0,Fine Dining,BTM Layout,Italian
+Restaurant_448,Yes,No,4.0,622,600.0,Casual Dining,BTM Layout,Chinese
+Restaurant_449,Yes,No,4.2,1317,150.0,Bakery,Electronic City,Fast Food
+Restaurant_450,No,No,,588,1000.0,Quick Bites,Whitefield,Cafe
+Restaurant_451,Yes,No,4.2,1372,800.0,Cafe,HSR Layout,Bakery
+Restaurant_452,Yes,No,2.6,1170,300.0,Fine Dining,MG Road,North Indian
+Restaurant_453,No,No,3.4,1090,250.0,Dessert Parlor,Jayanagar,Chinese
+Restaurant_454,Yes,Yes,4.0,903,300.0,Cafe,Indiranagar,Chinese
+Restaurant_455,Yes,No,2.9,519,300.0,Casual Dining,MG Road,Cafe
+Restaurant_456,Yes,No,4.5,121,1000.0,Fine Dining,Whitefield,North Indian
+Restaurant_457,Yes,No,3.1,339,1200.0,Bar,Marathahalli,Italian
+Restaurant_458,Yes,Yes,4.1,174,200.0,Bar,Indiranagar,Chinese
+Restaurant_459,Yes,No,3.5,1923,1500.0,Delivery,Koramangala,South Indian
+Restaurant_460,Yes,No,3.9,1714,150.0,Quick Bites,BTM Layout,Cafe
+Restaurant_461,Yes,No,2.8,596,1500.0,Dessert Parlor,Whitefield,Chinese
+Restaurant_462,No,Yes,2.5,450,1000.0,Delivery,Koramangala,Biryani
+Restaurant_463,Yes,No,4.7,556,1500.0,Fine Dining,Electronic City,North Indian
+Restaurant_464,No,No,3.1,1159,150.0,Bar,Bannerghatta Road,Fast Food
+Restaurant_465,Yes,Yes,4.5,1878,700.0,Bar,Jayanagar,Chinese
+Restaurant_466,Yes,No,4.9,1039,200.0,Bar,Jayanagar,Cafe
+Restaurant_467,No,No,3.0,1356,1500.0,Fine Dining,Koramangala,Fast Food
+Restaurant_468,Yes,No,3.1,1218,1000.0,Bar,BTM Layout,South Indian
+Restaurant_469,No,No,4.1,1519,400.0,Cafe,Electronic City,Fast Food
+Restaurant_470,Yes,No,4.8,8,1500.0,Bakery,Marathahalli,Biryani
+Restaurant_471,No,No,4.7,1851,300.0,Fine Dining,BTM Layout,Italian
+Restaurant_472,Yes,No,3.7,333,700.0,Dessert Parlor,MG Road,Chinese
+Restaurant_473,No,No,4.4,1356,200.0,Bakery,Jayanagar,Continental
+Restaurant_474,Yes,No,2.8,1016,1000.0,Delivery,MG Road,Continental
+Restaurant_475,No,No,4.8,326,800.0,Dessert Parlor,Indiranagar,Fast Food
+Restaurant_476,Yes,No,4.8,14,600.0,Bakery,HSR Layout,Seafood
+Restaurant_477,Yes,No,2.9,838,600.0,Casual Dining,Whitefield,North Indian
+Restaurant_478,No,No,3.2,1637,150.0,Bar,Electronic City,Continental
+Restaurant_479,Yes,No,2.7,225,1500.0,Casual Dining,BTM Layout,Seafood
+Restaurant_480,Yes,No,3.2,1448,200.0,Quick Bites,Jayanagar,Continental
+Restaurant_481,No,Yes,4.5,1813,300.0,Quick Bites,MG Road,Seafood
+Restaurant_482,Yes,No,3.4,1431,300.0,Bakery,Bannerghatta Road,North Indian
+Restaurant_483,Yes,Yes,2.7,112,1200.0,Casual Dining,Indiranagar,Bakery
+Restaurant_484,Yes,No,3.3,1451,250.0,Fine Dining,Whitefield,Continental
+Restaurant_485,No,No,4.9,0,600.0,Dessert Parlor,Whitefield,Biryani
+Restaurant_486,Yes,No,4.0,265,1500.0,Casual Dining,BTM Layout,Chinese
+Restaurant_487,Yes,No,3.5,1514,700.0,Quick Bites,Electronic City,Seafood
+Restaurant_488,No,No,2.9,1231,200.0,Casual Dining,Marathahalli,Chinese
+Restaurant_489,No,No,4.9,1645,300.0,Fine Dining,Bannerghatta Road,Cafe
+Restaurant_490,Yes,Yes,4.5,1735,250.0,Casual Dining,BTM Layout,Cafe
+Restaurant_491,Yes,No,,951,200.0,Dessert Parlor,MG Road,North Indian
+Restaurant_492,Yes,Yes,2.7,1392,1500.0,Delivery,HSR Layout,Seafood
+Restaurant_493,Yes,Yes,2.6,305,500.0,Fine Dining,Koramangala,South Indian
+Restaurant_494,Yes,No,2.8,11,300.0,Quick Bites,Marathahalli,Cafe
+Restaurant_495,Yes,No,3.9,1368,500.0,Dessert Parlor,Electronic City,North Indian
+Restaurant_496,Yes,No,,1488,200.0,Casual Dining,Indiranagar,Cafe
+Restaurant_497,Yes,No,3.7,1723,1500.0,Casual Dining,Marathahalli,Cafe
+Restaurant_498,No,No,4.5,1689,300.0,Delivery,Jayanagar,South Indian
+Restaurant_499,No,No,3.6,1517,1200.0,Quick Bites,Electronic City,Continental
+Restaurant_500,No,No,4.2,1391,500.0,Quick Bites,HSR Layout,Fast Food
+Restaurant_501,Yes,No,,1869,400.0,Cafe,Jayanagar,Bakery
+Restaurant_502,Yes,Yes,2.9,936,250.0,Quick Bites,Marathahalli,Cafe
+Restaurant_503,No,No,3.4,419,700.0,Delivery,Koramangala,Cafe
+Restaurant_504,No,No,4.0,888,600.0,Bar,Koramangala,Biryani
+Restaurant_505,Yes,No,,1814,250.0,Cafe,HSR Layout,Bakery
+Restaurant_506,No,No,3.4,170,,Cafe,Whitefield,South Indian
+Restaurant_507,No,No,3.8,133,300.0,Casual Dining,Bannerghatta Road,Chinese
+Restaurant_508,No,No,4.9,964,1200.0,Casual Dining,Indiranagar,Seafood
+Restaurant_509,No,No,3.6,1450,400.0,Quick Bites,Whitefield,Cafe
+Restaurant_510,Yes,No,4.5,1048,1200.0,Cafe,Koramangala,Fast Food
+Restaurant_511,Yes,No,3.5,1553,400.0,Bakery,Koramangala,Seafood
+Restaurant_512,No,No,4.4,1213,600.0,Casual Dining,MG Road,Bakery
+Restaurant_513,No,Yes,3.9,1164,1200.0,Delivery,Jayanagar,Seafood
+Restaurant_514,Yes,Yes,4.6,1578,400.0,Bakery,Marathahalli,Continental
+Restaurant_515,Yes,Yes,3.5,1869,1200.0,Casual Dining,Indiranagar,Cafe
+Restaurant_516,Yes,No,4.0,1819,250.0,Fine Dining,HSR Layout,Seafood
+Restaurant_517,No,No,4.0,657,1000.0,Fine Dining,Marathahalli,Chinese
+Restaurant_518,No,Yes,3.5,1338,,Casual Dining,MG Road,Chinese
+Restaurant_519,Yes,No,2.8,1467,600.0,Cafe,Koramangala,Cafe
+Restaurant_520,Yes,Yes,2.7,1342,400.0,Bar,HSR Layout,Italian
+Restaurant_521,Yes,No,2.5,1464,400.0,Bar,Koramangala,Chinese
+Restaurant_522,No,No,4.6,1115,,Cafe,Indiranagar,Seafood
+Restaurant_523,No,Yes,3.1,178,250.0,Dessert Parlor,Jayanagar,North Indian
+Restaurant_524,No,No,3.0,1079,500.0,Bar,Marathahalli,Chinese
+Restaurant_525,Yes,Yes,4.3,1178,150.0,Fine Dining,Marathahalli,Bakery
+Restaurant_526,Yes,Yes,3.3,1695,1000.0,Delivery,Whitefield,Italian
+Restaurant_527,Yes,No,3.7,110,400.0,Cafe,HSR Layout,Seafood
+Restaurant_528,Yes,No,2.9,136,700.0,Quick Bites,Bannerghatta Road,South Indian
+Restaurant_529,No,No,4.8,231,,Fine Dining,MG Road,Biryani
+Restaurant_530,No,No,4.5,991,800.0,Delivery,Bannerghatta Road,South Indian
+Restaurant_531,No,No,,467,1200.0,Delivery,Whitefield,Continental
+Restaurant_532,No,No,3.5,731,500.0,Cafe,Indiranagar,Biryani
+Restaurant_533,Yes,Yes,,480,700.0,Delivery,MG Road,Continental
+Restaurant_534,No,No,2.8,1091,1000.0,Cafe,Jayanagar,Biryani
+Restaurant_535,No,Yes,2.5,813,700.0,Bar,Bannerghatta Road,Biryani
+Restaurant_536,No,Yes,2.5,1272,250.0,Casual Dining,Jayanagar,North Indian
+Restaurant_537,Yes,No,3.9,993,600.0,Fine Dining,Bannerghatta Road,Fast Food
+Restaurant_538,Yes,Yes,3.6,322,600.0,Dessert Parlor,Jayanagar,Bakery
+Restaurant_539,Yes,No,3.7,921,1000.0,Casual Dining,Bannerghatta Road,South Indian
+Restaurant_540,No,No,2.5,903,1500.0,Fine Dining,Jayanagar,Chinese
+Restaurant_541,Yes,Yes,3.5,1541,500.0,Cafe,Whitefield,Seafood
+Restaurant_542,Yes,No,4.2,1999,1500.0,Fine Dining,Electronic City,Italian
+Restaurant_543,No,Yes,3.6,1815,600.0,Bar,MG Road,Bakery
+Restaurant_544,Yes,No,4.3,1455,200.0,Cafe,HSR Layout,Continental
+Restaurant_545,Yes,No,3.1,1510,800.0,Casual Dining,Indiranagar,North Indian
+Restaurant_546,Yes,No,4.5,605,1000.0,Quick Bites,BTM Layout,Continental
+Restaurant_547,No,No,3.9,428,1000.0,Quick Bites,Koramangala,Fast Food
+Restaurant_548,Yes,Yes,3.0,1292,150.0,Bakery,HSR Layout,Italian
+Restaurant_549,No,No,3.1,1732,150.0,Bakery,Koramangala,North Indian
+Restaurant_550,Yes,No,4.0,1560,250.0,Fine Dining,MG Road,Continental
+Restaurant_551,No,No,4.5,147,250.0,Quick Bites,HSR Layout,Fast Food
+Restaurant_552,Yes,No,3.5,1141,150.0,Cafe,Jayanagar,Seafood
+Restaurant_553,Yes,No,3.1,849,1500.0,Delivery,Jayanagar,Seafood
+Restaurant_554,No,Yes,4.6,366,600.0,Cafe,BTM Layout,Continental
+Restaurant_555,Yes,Yes,4.1,849,300.0,Delivery,Koramangala,Bakery
+Restaurant_556,Yes,No,3.6,1089,1000.0,Casual Dining,Indiranagar,Italian
+Restaurant_557,Yes,No,3.7,1993,200.0,Dessert Parlor,MG Road,Cafe
+Restaurant_558,No,No,3.0,812,1000.0,Delivery,Jayanagar,Bakery
+Restaurant_559,Yes,No,4.0,1393,400.0,Quick Bites,Electronic City,Seafood
+Restaurant_560,No,No,3.4,174,500.0,Cafe,Whitefield,Italian
+Restaurant_561,Yes,Yes,4.9,1854,800.0,Casual Dining,Whitefield,Fast Food
+Restaurant_562,Yes,No,3.7,587,300.0,Quick Bites,Bannerghatta Road,North Indian
+Restaurant_563,Yes,Yes,3.7,494,200.0,Casual Dining,Indiranagar,Biryani
+Restaurant_564,Yes,No,3.9,972,400.0,Dessert Parlor,Whitefield,Continental
+Restaurant_565,Yes,No,4.7,1137,250.0,Bar,Bannerghatta Road,South Indian
+Restaurant_566,Yes,No,4.4,1134,200.0,Cafe,Koramangala,Italian
+Restaurant_567,Yes,Yes,3.6,1784,1500.0,Fine Dining,Jayanagar,Chinese
+Restaurant_568,No,No,4.2,1462,150.0,Cafe,Jayanagar,Fast Food
+Restaurant_569,Yes,No,3.9,1738,1000.0,Bakery,Electronic City,Cafe
+Restaurant_570,Yes,No,,1170,200.0,Dessert Parlor,HSR Layout,Biryani
+Restaurant_571,No,Yes,3.0,34,500.0,Cafe,Whitefield,Chinese
+Restaurant_572,Yes,No,3.6,998,700.0,Bakery,Koramangala,Cafe
+Restaurant_573,Yes,No,3.1,1332,250.0,Fine Dining,Marathahalli,South Indian
+Restaurant_574,No,Yes,4.7,537,1200.0,Delivery,Whitefield,Seafood
+Restaurant_575,No,Yes,3.3,749,800.0,Casual Dining,Indiranagar,Bakery
+Restaurant_576,Yes,Yes,4.8,1037,1500.0,Fine Dining,HSR Layout,Continental
+Restaurant_577,No,No,3.8,373,800.0,Quick Bites,Whitefield,North Indian
+Restaurant_578,Yes,No,4.0,556,200.0,Dessert Parlor,Koramangala,Cafe
+Restaurant_579,Yes,No,3.8,1451,700.0,Delivery,Whitefield,Biryani
+Restaurant_580,Yes,Yes,2.8,1751,,Quick Bites,Indiranagar,Italian
+Restaurant_581,No,No,3.4,232,1200.0,Quick Bites,Marathahalli,Seafood
+Restaurant_582,Yes,No,2.7,704,1500.0,Dessert Parlor,MG Road,Italian
+Restaurant_583,Yes,No,4.0,562,400.0,Delivery,BTM Layout,Biryani
+Restaurant_584,Yes,No,3.6,938,300.0,Bar,Marathahalli,Italian
+Restaurant_585,Yes,Yes,4.4,886,1000.0,Quick Bites,Bannerghatta Road,Cafe
+Restaurant_586,Yes,No,3.0,725,400.0,Quick Bites,Whitefield,Fast Food
+Restaurant_587,Yes,No,2.9,1686,300.0,Delivery,Jayanagar,Italian
+Restaurant_588,Yes,No,3.5,1463,700.0,Cafe,Electronic City,Bakery
+Restaurant_589,Yes,No,,1525,300.0,Quick Bites,Jayanagar,South Indian
+Restaurant_590,Yes,No,4.2,1298,1000.0,Casual Dining,Marathahalli,North Indian
+Restaurant_591,Yes,No,3.5,1873,1500.0,Delivery,Jayanagar,Cafe
+Restaurant_592,Yes,Yes,3.7,75,500.0,Quick Bites,Koramangala,Chinese
+Restaurant_593,Yes,Yes,2.7,438,,Dessert Parlor,Jayanagar,Biryani
+Restaurant_594,No,No,4.9,1755,400.0,Fine Dining,HSR Layout,Seafood
+Restaurant_595,Yes,No,4.1,1883,500.0,Casual Dining,MG Road,Cafe
+Restaurant_596,No,Yes,3.2,1979,400.0,Bakery,Whitefield,Fast Food
+Restaurant_597,Yes,Yes,3.9,698,1500.0,Bakery,Jayanagar,Seafood
+Restaurant_598,Yes,Yes,2.8,1312,200.0,Fine Dining,Indiranagar,Bakery
+Restaurant_599,Yes,No,4.8,914,600.0,Bakery,MG Road,Biryani
+Restaurant_600,Yes,Yes,2.9,1563,300.0,Fine Dining,MG Road,Seafood
+Restaurant_601,Yes,No,4.1,890,700.0,Quick Bites,Jayanagar,Italian
+Restaurant_602,Yes,Yes,3.1,691,600.0,Casual Dining,MG Road,Cafe
+Restaurant_603,Yes,No,4.2,252,600.0,Casual Dining,Electronic City,South Indian
+Restaurant_604,Yes,Yes,4.4,1149,800.0,Cafe,Jayanagar,Biryani
+Restaurant_605,Yes,No,4.1,1200,150.0,Fine Dining,Koramangala,Continental
+Restaurant_606,Yes,Yes,4.0,1060,1000.0,Casual Dining,Marathahalli,Bakery
+Restaurant_607,Yes,No,4.6,409,500.0,Cafe,HSR Layout,North Indian
+Restaurant_608,Yes,Yes,2.7,1634,,Delivery,BTM Layout,Biryani
+Restaurant_609,No,No,3.3,1633,500.0,Cafe,Bannerghatta Road,Fast Food
+Restaurant_610,Yes,No,3.1,126,1500.0,Dessert Parlor,MG Road,Cafe
+Restaurant_611,No,No,4.9,1506,500.0,Bar,Koramangala,Italian
+Restaurant_612,Yes,No,3.4,1191,1500.0,Quick Bites,Whitefield,North Indian
+Restaurant_613,Yes,No,4.3,591,1000.0,Delivery,Whitefield,North Indian
+Restaurant_614,No,No,4.1,293,600.0,Bar,Bannerghatta Road,Bakery
+Restaurant_615,No,No,3.0,1868,1000.0,Bar,HSR Layout,Seafood
+Restaurant_616,Yes,No,3.1,1661,500.0,Delivery,MG Road,Fast Food
+Restaurant_617,Yes,No,,1366,150.0,Dessert Parlor,Electronic City,Seafood
+Restaurant_618,No,No,3.5,1019,250.0,Cafe,Bannerghatta Road,Italian
+Restaurant_619,No,No,3.1,309,200.0,Quick Bites,HSR Layout,North Indian
+Restaurant_620,Yes,No,2.5,661,500.0,Cafe,MG Road,Fast Food
+Restaurant_621,Yes,Yes,4.6,527,700.0,Casual Dining,Koramangala,Fast Food
+Restaurant_622,Yes,No,,539,250.0,Cafe,Marathahalli,Chinese
+Restaurant_623,Yes,No,3.3,418,1000.0,Bakery,Electronic City,Cafe
+Restaurant_624,Yes,Yes,3.3,443,700.0,Delivery,BTM Layout,North Indian
+Restaurant_625,Yes,No,2.5,684,700.0,Quick Bites,Whitefield,North Indian
+Restaurant_626,Yes,Yes,4.1,1581,400.0,Cafe,Indiranagar,Fast Food
+Restaurant_627,No,No,4.5,839,700.0,Quick Bites,Koramangala,Seafood
+Restaurant_628,Yes,Yes,2.9,235,500.0,Quick Bites,Whitefield,North Indian
+Restaurant_629,Yes,No,2.9,1462,400.0,Casual Dining,Jayanagar,Fast Food
+Restaurant_630,No,No,4.4,213,800.0,Casual Dining,Indiranagar,North Indian
+Restaurant_631,No,No,,84,600.0,Delivery,Whitefield,Fast Food
+Restaurant_632,Yes,No,2.6,793,700.0,Dessert Parlor,HSR Layout,Chinese
+Restaurant_633,Yes,No,4.0,1767,150.0,Bakery,Electronic City,Cafe
+Restaurant_634,Yes,No,3.2,84,1200.0,Bar,Whitefield,Fast Food
+Restaurant_635,Yes,Yes,3.4,1944,200.0,Quick Bites,BTM Layout,North Indian
+Restaurant_636,Yes,No,4.3,1512,700.0,Dessert Parlor,Marathahalli,Italian
+Restaurant_637,Yes,Yes,4.4,64,1500.0,Bar,HSR Layout,Cafe
+Restaurant_638,Yes,No,3.5,1669,800.0,Bar,Koramangala,Chinese
+Restaurant_639,Yes,No,4.8,662,300.0,Bakery,Koramangala,Fast Food
+Restaurant_640,Yes,No,3.5,626,1500.0,Delivery,Koramangala,Italian
+Restaurant_641,Yes,No,4.4,63,,Bar,Koramangala,Fast Food
+Restaurant_642,Yes,No,3.7,1366,1200.0,Bakery,Marathahalli,Seafood
+Restaurant_643,Yes,No,4.7,938,1000.0,Bar,Whitefield,North Indian
+Restaurant_644,Yes,Yes,4.7,1898,800.0,Quick Bites,MG Road,Biryani
+Restaurant_645,No,No,2.7,918,300.0,Quick Bites,Whitefield,Bakery
+Restaurant_646,Yes,Yes,4.7,1375,1000.0,Fine Dining,Jayanagar,South Indian
+Restaurant_647,No,No,4.5,1181,1000.0,Dessert Parlor,Electronic City,Seafood
+Restaurant_648,No,No,4.4,1612,1000.0,Cafe,Indiranagar,Italian
+Restaurant_649,Yes,No,3.0,490,800.0,Bakery,MG Road,Seafood
+Restaurant_650,Yes,Yes,4.4,1681,1200.0,Casual Dining,MG Road,Continental
+Restaurant_651,Yes,No,4.5,1878,600.0,Bakery,Whitefield,Fast Food
+Restaurant_652,Yes,Yes,3.2,1486,200.0,Cafe,MG Road,Fast Food
+Restaurant_653,No,No,4.8,1248,800.0,Dessert Parlor,Bannerghatta Road,South Indian
+Restaurant_654,Yes,Yes,2.6,1940,300.0,Casual Dining,Bannerghatta Road,South Indian
+Restaurant_655,Yes,No,2.9,312,700.0,Cafe,Jayanagar,Continental
+Restaurant_656,Yes,No,3.8,614,600.0,Fine Dining,Indiranagar,North Indian
+Restaurant_657,Yes,No,3.9,918,600.0,Casual Dining,BTM Layout,Bakery
+Restaurant_658,Yes,No,4.0,1882,700.0,Quick Bites,Marathahalli,Biryani
+Restaurant_659,Yes,No,2.5,812,150.0,Cafe,Whitefield,Biryani
+Restaurant_660,Yes,No,,939,400.0,Bakery,Marathahalli,Chinese
+Restaurant_661,No,No,2.6,1489,200.0,Casual Dining,BTM Layout,Chinese
+Restaurant_662,Yes,No,2.8,1111,200.0,Fine Dining,Whitefield,North Indian
+Restaurant_663,Yes,No,2.5,1906,150.0,Bakery,Whitefield,Chinese
+Restaurant_664,Yes,No,3.9,1326,400.0,Bar,Indiranagar,Chinese
+Restaurant_665,Yes,No,4.7,679,200.0,Casual Dining,Marathahalli,Continental
+Restaurant_666,Yes,Yes,4.1,434,300.0,Casual Dining,Bannerghatta Road,Continental
+Restaurant_667,Yes,No,4.5,681,250.0,Fine Dining,Koramangala,Chinese
+Restaurant_668,Yes,Yes,2.5,1158,250.0,Bar,Marathahalli,Seafood
+Restaurant_669,Yes,No,3.8,1073,200.0,Cafe,Electronic City,Cafe
+Restaurant_670,Yes,No,3.6,1455,500.0,Delivery,Electronic City,Cafe
+Restaurant_671,No,No,3.7,339,200.0,Cafe,Whitefield,North Indian
+Restaurant_672,Yes,No,2.7,346,700.0,Bar,Koramangala,Biryani
+Restaurant_673,Yes,No,,645,700.0,Dessert Parlor,HSR Layout,South Indian
+Restaurant_674,Yes,No,3.7,1370,1500.0,Bakery,BTM Layout,North Indian
+Restaurant_675,No,No,4.3,648,400.0,Fine Dining,Jayanagar,Chinese
+Restaurant_676,Yes,Yes,3.7,244,1000.0,Cafe,Koramangala,Continental
+Restaurant_677,Yes,No,2.9,108,600.0,Casual Dining,Jayanagar,Fast Food
+Restaurant_678,No,Yes,4.1,1848,300.0,Fine Dining,Marathahalli,Seafood
+Restaurant_679,No,No,2.9,1822,150.0,Quick Bites,Marathahalli,Italian
+Restaurant_680,No,No,4.6,532,1200.0,Bar,Jayanagar,Continental
+Restaurant_681,Yes,No,4.0,1113,200.0,Bakery,BTM Layout,Cafe
+Restaurant_682,Yes,No,2.9,295,1000.0,Cafe,Koramangala,Continental
+Restaurant_683,No,No,4.8,111,1000.0,Fine Dining,HSR Layout,Seafood
+Restaurant_684,No,Yes,3.7,1836,300.0,Bakery,Whitefield,South Indian
+Restaurant_685,Yes,No,,1612,150.0,Cafe,Indiranagar,Chinese
+Restaurant_686,Yes,No,4.0,1200,700.0,Fine Dining,Marathahalli,Fast Food
+Restaurant_687,Yes,No,3.1,342,800.0,Casual Dining,Electronic City,Cafe
+Restaurant_688,No,No,4.4,1683,300.0,Quick Bites,BTM Layout,Cafe
+Restaurant_689,Yes,No,4.5,100,1000.0,Quick Bites,Indiranagar,Bakery
+Restaurant_690,Yes,Yes,4.8,1781,250.0,Dessert Parlor,HSR Layout,Biryani
+Restaurant_691,Yes,No,3.7,628,200.0,Fine Dining,MG Road,South Indian
+Restaurant_692,Yes,No,3.6,1627,400.0,Cafe,Whitefield,Cafe
+Restaurant_693,Yes,Yes,4.3,1424,250.0,Quick Bites,Marathahalli,Biryani
+Restaurant_694,Yes,No,2.8,27,1000.0,Bar,Whitefield,Cafe
+Restaurant_695,Yes,Yes,3.8,936,600.0,Quick Bites,Indiranagar,Chinese
+Restaurant_696,Yes,Yes,3.8,1985,1200.0,Delivery,Whitefield,Biryani
+Restaurant_697,Yes,Yes,2.7,1560,500.0,Delivery,MG Road,Seafood
+Restaurant_698,Yes,No,3.5,57,150.0,Quick Bites,Indiranagar,Bakery
+Restaurant_699,Yes,No,4.5,1521,1500.0,Fine Dining,Marathahalli,Chinese
+Restaurant_700,Yes,No,4.6,296,700.0,Dessert Parlor,Koramangala,Seafood
+Restaurant_701,Yes,No,2.7,133,200.0,Quick Bites,Electronic City,Fast Food
+Restaurant_702,Yes,No,2.7,1354,400.0,Casual Dining,Indiranagar,South Indian
+Restaurant_703,Yes,No,3.1,248,800.0,Bakery,Bannerghatta Road,South Indian
+Restaurant_704,Yes,No,4.6,1020,700.0,Cafe,MG Road,Italian
+Restaurant_705,No,Yes,2.8,549,200.0,Dessert Parlor,Indiranagar,Italian
+Restaurant_706,Yes,No,4.2,901,800.0,Casual Dining,Indiranagar,Biryani
+Restaurant_707,No,Yes,2.7,1964,400.0,Dessert Parlor,Bannerghatta Road,South Indian
+Restaurant_708,Yes,No,,1098,1000.0,Casual Dining,Marathahalli,Biryani
+Restaurant_709,No,No,3.4,1677,500.0,Cafe,Indiranagar,Italian
+Restaurant_710,No,Yes,4.4,833,250.0,Cafe,Electronic City,Fast Food
+Restaurant_711,Yes,Yes,3.1,1191,250.0,Delivery,Whitefield,Cafe
+Restaurant_712,Yes,No,4.0,770,1000.0,Fine Dining,Marathahalli,Seafood
+Restaurant_713,Yes,No,3.1,1526,700.0,Casual Dining,Electronic City,Continental
+Restaurant_714,Yes,Yes,,1908,1200.0,Bakery,Marathahalli,Biryani
+Restaurant_715,No,No,4.6,1378,1000.0,Delivery,Electronic City,Fast Food
+Restaurant_716,No,Yes,2.8,1248,1000.0,Casual Dining,MG Road,Seafood
+Restaurant_717,No,No,4.6,1687,1500.0,Delivery,Electronic City,South Indian
+Restaurant_718,Yes,No,3.9,1554,200.0,Cafe,Jayanagar,Cafe
+Restaurant_719,No,Yes,2.8,145,1200.0,Dessert Parlor,Electronic City,Seafood
+Restaurant_720,No,Yes,3.5,1983,1500.0,Bar,Koramangala,Bakery
+Restaurant_721,Yes,Yes,2.9,1264,1500.0,Delivery,Koramangala,Italian
+Restaurant_722,Yes,No,4.2,1907,200.0,Casual Dining,BTM Layout,Seafood
+Restaurant_723,No,Yes,4.3,892,400.0,Casual Dining,Jayanagar,Continental
+Restaurant_724,Yes,No,2.8,343,500.0,Bar,Jayanagar,Fast Food
+Restaurant_725,No,Yes,3.7,1772,1500.0,Fine Dining,Whitefield,Cafe
+Restaurant_726,Yes,No,4.5,1058,200.0,Bakery,Jayanagar,Chinese
+Restaurant_727,No,No,4.7,701,400.0,Cafe,Whitefield,Seafood
+Restaurant_728,Yes,No,3.7,0,600.0,Casual Dining,BTM Layout,North Indian
+Restaurant_729,Yes,No,4.8,152,1000.0,Quick Bites,BTM Layout,Continental
+Restaurant_730,Yes,No,3.8,428,1000.0,Dessert Parlor,MG Road,Continental
+Restaurant_731,No,No,,1968,700.0,Delivery,Koramangala,North Indian
+Restaurant_732,No,No,4.5,507,1500.0,Fine Dining,Electronic City,Bakery
+Restaurant_733,Yes,No,3.7,1149,600.0,Bakery,Electronic City,Chinese
+Restaurant_734,Yes,Yes,3.6,490,700.0,Bar,Bannerghatta Road,Italian
+Restaurant_735,No,No,3.7,1505,1500.0,Dessert Parlor,Bannerghatta Road,Fast Food
+Restaurant_736,Yes,No,4.5,344,800.0,Cafe,HSR Layout,Cafe
+Restaurant_737,No,Yes,4.5,1935,400.0,Fine Dining,Marathahalli,Fast Food
+Restaurant_738,Yes,No,,1761,400.0,Bakery,MG Road,Chinese
+Restaurant_739,Yes,No,3.3,220,1200.0,Delivery,HSR Layout,Fast Food
+Restaurant_740,Yes,No,3.7,1938,1000.0,Delivery,HSR Layout,North Indian
+Restaurant_741,Yes,No,,1942,300.0,Bar,Indiranagar,Continental
+Restaurant_742,No,No,3.1,722,800.0,Quick Bites,Indiranagar,Fast Food
+Restaurant_743,Yes,Yes,4.4,1048,400.0,Bar,HSR Layout,Biryani
+Restaurant_744,Yes,No,3.7,527,200.0,Cafe,Jayanagar,Seafood
+Restaurant_745,No,No,3.3,1205,1000.0,Fine Dining,Marathahalli,Chinese
+Restaurant_746,Yes,Yes,2.8,1522,700.0,Fine Dining,MG Road,Bakery
+Restaurant_747,Yes,Yes,3.1,840,600.0,Casual Dining,HSR Layout,Biryani
+Restaurant_748,No,No,4.8,1664,700.0,Quick Bites,Electronic City,North Indian
+Restaurant_749,Yes,Yes,3.2,1065,1500.0,Quick Bites,Marathahalli,South Indian
+Restaurant_750,Yes,No,2.9,1938,250.0,Fine Dining,Indiranagar,North Indian
+Restaurant_751,No,Yes,3.6,480,300.0,Fine Dining,Electronic City,Bakery
+Restaurant_752,Yes,Yes,,929,400.0,Dessert Parlor,Indiranagar,Bakery
+Restaurant_753,Yes,Yes,2.6,1871,500.0,Bakery,Indiranagar,Biryani
+Restaurant_754,Yes,No,,1771,150.0,Dessert Parlor,Marathahalli,Seafood
+Restaurant_755,No,No,3.8,871,300.0,Dessert Parlor,Indiranagar,Chinese
+Restaurant_756,Yes,No,3.8,1462,1200.0,Quick Bites,BTM Layout,Italian
+Restaurant_757,Yes,No,,1425,1500.0,Casual Dining,Koramangala,Continental
+Restaurant_758,No,Yes,3.6,1569,1000.0,Delivery,BTM Layout,Biryani
+Restaurant_759,No,No,4.8,344,400.0,Dessert Parlor,Koramangala,Bakery
+Restaurant_760,Yes,No,,1916,600.0,Casual Dining,Bannerghatta Road,South Indian
+Restaurant_761,Yes,No,3.1,44,400.0,Bar,Bannerghatta Road,Cafe
+Restaurant_762,Yes,Yes,3.1,1669,150.0,Cafe,Indiranagar,Bakery
+Restaurant_763,No,No,3.6,20,1200.0,Dessert Parlor,MG Road,Seafood
+Restaurant_764,Yes,Yes,4.3,1657,600.0,Bar,MG Road,Seafood
+Restaurant_765,Yes,No,3.0,1093,700.0,Delivery,Koramangala,Bakery
+Restaurant_766,No,No,,1887,600.0,Cafe,Electronic City,Seafood
+Restaurant_767,No,No,2.6,872,1200.0,Cafe,Marathahalli,Biryani
+Restaurant_768,Yes,No,3.5,47,300.0,Delivery,Indiranagar,Bakery
+Restaurant_769,No,No,4.4,1514,700.0,Dessert Parlor,Marathahalli,Bakery
+Restaurant_770,Yes,No,,550,400.0,Quick Bites,BTM Layout,Chinese
+Restaurant_771,No,No,3.9,286,1000.0,Delivery,MG Road,Continental
+Restaurant_772,Yes,No,3.0,1001,800.0,Delivery,Jayanagar,South Indian
+Restaurant_773,Yes,No,4.3,1033,1500.0,Delivery,BTM Layout,Seafood
+Restaurant_774,No,No,2.6,541,,Cafe,BTM Layout,Chinese
+Restaurant_775,Yes,No,4.5,755,,Bakery,Koramangala,Italian
+Restaurant_776,Yes,No,,273,400.0,Casual Dining,Whitefield,Italian
+Restaurant_777,No,No,4.6,955,150.0,Bar,BTM Layout,Fast Food
+Restaurant_778,No,Yes,3.3,599,1500.0,Quick Bites,Indiranagar,Biryani
+Restaurant_779,Yes,No,4.2,1779,800.0,Dessert Parlor,HSR Layout,Biryani
+Restaurant_780,No,Yes,3.3,380,1500.0,Dessert Parlor,HSR Layout,North Indian
+Restaurant_781,Yes,No,4.7,1352,400.0,Bar,Indiranagar,South Indian
+Restaurant_782,Yes,No,2.8,478,500.0,Casual Dining,Whitefield,Bakery
+Restaurant_783,Yes,No,2.9,14,300.0,Delivery,Whitefield,Seafood
+Restaurant_784,Yes,No,3.7,515,500.0,Bakery,Koramangala,South Indian
+Restaurant_785,No,No,2.7,190,1500.0,Quick Bites,MG Road,Fast Food
+Restaurant_786,Yes,No,3.0,1191,700.0,Dessert Parlor,Marathahalli,North Indian
+Restaurant_787,Yes,No,4.8,1544,250.0,Bar,Whitefield,Chinese
+Restaurant_788,Yes,Yes,4.8,620,400.0,Fine Dining,Jayanagar,South Indian
+Restaurant_789,No,No,3.4,1160,200.0,Bakery,Koramangala,Chinese
+Restaurant_790,Yes,Yes,4.7,153,200.0,Bar,Bannerghatta Road,Italian
+Restaurant_791,Yes,No,3.8,1411,600.0,Bakery,Electronic City,Seafood
+Restaurant_792,Yes,No,3.1,1232,1000.0,Dessert Parlor,Bannerghatta Road,Fast Food
+Restaurant_793,Yes,No,4.2,271,1000.0,Delivery,Koramangala,Bakery
+Restaurant_794,Yes,Yes,4.1,142,1200.0,Fine Dining,BTM Layout,Seafood
+Restaurant_795,No,Yes,4.9,1634,1000.0,Casual Dining,Marathahalli,Continental
+Restaurant_796,No,No,3.1,1912,500.0,Quick Bites,Electronic City,Biryani
+Restaurant_797,Yes,Yes,4.1,1843,300.0,Casual Dining,Bannerghatta Road,Fast Food
+Restaurant_798,No,Yes,2.6,1092,400.0,Casual Dining,Electronic City,South Indian
+Restaurant_799,No,Yes,2.8,246,150.0,Bar,Jayanagar,Seafood
+Restaurant_800,No,No,2.5,1284,600.0,Bakery,Jayanagar,Cafe
+Restaurant_801,Yes,No,4.9,787,700.0,Quick Bites,Jayanagar,Biryani
+Restaurant_802,Yes,No,4.4,78,800.0,Quick Bites,Koramangala,Biryani
+Restaurant_803,Yes,Yes,4.4,1681,,Dessert Parlor,Marathahalli,Cafe
+Restaurant_804,Yes,No,3.7,622,400.0,Dessert Parlor,Koramangala,North Indian
+Restaurant_805,No,No,3.2,1793,250.0,Quick Bites,HSR Layout,North Indian
+Restaurant_806,No,No,2.9,1628,1000.0,Fine Dining,BTM Layout,Cafe
+Restaurant_807,No,Yes,3.2,524,1200.0,Cafe,BTM Layout,Continental
+Restaurant_808,Yes,Yes,3.4,771,,Dessert Parlor,Jayanagar,Italian
+Restaurant_809,Yes,Yes,4.3,937,500.0,Cafe,HSR Layout,Cafe
+Restaurant_810,No,No,3.8,1644,400.0,Bar,Whitefield,Italian
+Restaurant_811,No,No,2.7,1353,250.0,Fine Dining,Whitefield,Seafood
+Restaurant_812,Yes,Yes,2.5,1212,500.0,Quick Bites,Jayanagar,Continental
+Restaurant_813,No,Yes,2.7,1118,250.0,Fine Dining,Bannerghatta Road,Fast Food
+Restaurant_814,No,Yes,3.5,616,1000.0,Dessert Parlor,Koramangala,Italian
+Restaurant_815,Yes,No,4.7,1031,1500.0,Casual Dining,Jayanagar,Biryani
+Restaurant_816,Yes,Yes,4.0,66,500.0,Bar,MG Road,Seafood
+Restaurant_817,Yes,No,4.4,1519,300.0,Quick Bites,Electronic City,Biryani
+Restaurant_818,Yes,No,3.6,190,200.0,Delivery,BTM Layout,Continental
+Restaurant_819,Yes,No,3.4,1389,700.0,Bar,Whitefield,Italian
+Restaurant_820,No,Yes,2.8,767,300.0,Bakery,Indiranagar,Chinese
+Restaurant_821,Yes,Yes,4.6,520,800.0,Cafe,Whitefield,Continental
+Restaurant_822,Yes,No,4.4,989,600.0,Fine Dining,BTM Layout,Continental
+Restaurant_823,Yes,No,2.9,1140,1500.0,Quick Bites,Electronic City,Chinese
+Restaurant_824,Yes,No,3.7,266,200.0,Bar,BTM Layout,Seafood
+Restaurant_825,No,No,3.7,1634,300.0,Fine Dining,Indiranagar,Italian
+Restaurant_826,Yes,Yes,4.0,484,400.0,Quick Bites,Jayanagar,Italian
+Restaurant_827,Yes,No,4.8,1532,250.0,Dessert Parlor,HSR Layout,Biryani
+Restaurant_828,No,No,,1321,800.0,Bar,Indiranagar,Continental
+Restaurant_829,Yes,Yes,3.8,1932,400.0,Dessert Parlor,BTM Layout,Continental
+Restaurant_830,Yes,No,2.6,1187,200.0,Bar,BTM Layout,Bakery
+Restaurant_831,Yes,No,2.7,375,1200.0,Dessert Parlor,MG Road,Fast Food
+Restaurant_832,Yes,No,2.9,652,250.0,Bakery,MG Road,Continental
+Restaurant_833,Yes,No,2.6,1291,800.0,Fine Dining,Marathahalli,South Indian
+Restaurant_834,Yes,No,4.3,548,600.0,Delivery,MG Road,Fast Food
+Restaurant_835,Yes,No,4.2,1097,200.0,Bar,Koramangala,South Indian
+Restaurant_836,No,Yes,2.8,1531,800.0,Bakery,HSR Layout,Italian
+Restaurant_837,Yes,No,,72,300.0,Bar,Electronic City,Fast Food
+Restaurant_838,Yes,No,2.9,307,,Dessert Parlor,Indiranagar,Continental
+Restaurant_839,Yes,Yes,3.2,198,200.0,Quick Bites,BTM Layout,Chinese
+Restaurant_840,Yes,No,,1153,1500.0,Bar,Marathahalli,Biryani
+Restaurant_841,No,No,3.4,1781,1000.0,Bakery,Marathahalli,South Indian
+Restaurant_842,Yes,No,3.1,1847,1500.0,Dessert Parlor,Electronic City,Fast Food
+Restaurant_843,No,No,3.7,571,300.0,Casual Dining,HSR Layout,Continental
+Restaurant_844,Yes,No,3.5,790,400.0,Dessert Parlor,Indiranagar,Fast Food
+Restaurant_845,Yes,Yes,4.9,1638,200.0,Fine Dining,Whitefield,Continental
+Restaurant_846,Yes,Yes,,1831,,Delivery,MG Road,Continental
+Restaurant_847,No,Yes,2.8,1855,150.0,Casual Dining,Jayanagar,Continental
+Restaurant_848,Yes,No,2.6,1510,600.0,Fine Dining,Marathahalli,Bakery
+Restaurant_849,Yes,No,4.0,1876,1000.0,Fine Dining,MG Road,Biryani
+Restaurant_850,Yes,Yes,2.6,1174,150.0,Fine Dining,MG Road,Chinese
+Restaurant_851,No,No,4.5,1692,1200.0,Quick Bites,Koramangala,Chinese
+Restaurant_852,Yes,No,3.7,1229,1200.0,Fine Dining,HSR Layout,Fast Food
+Restaurant_853,No,No,3.8,178,700.0,Quick Bites,Jayanagar,Fast Food
+Restaurant_854,Yes,No,3.8,196,250.0,Fine Dining,Whitefield,Continental
+Restaurant_855,Yes,Yes,2.9,734,1000.0,Cafe,BTM Layout,Bakery
+Restaurant_856,Yes,No,3.0,88,500.0,Bakery,Koramangala,Continental
+Restaurant_857,Yes,No,,798,600.0,Casual Dining,MG Road,Bakery
+Restaurant_858,Yes,No,3.9,1457,1000.0,Cafe,MG Road,Continental
+Restaurant_859,Yes,No,3.0,787,150.0,Fine Dining,Bannerghatta Road,South Indian
+Restaurant_860,No,No,2.8,747,500.0,Casual Dining,Jayanagar,South Indian
+Restaurant_861,Yes,No,4.8,1206,600.0,Casual Dining,Jayanagar,Italian
+Restaurant_862,Yes,Yes,2.6,208,500.0,Bar,Bannerghatta Road,Continental
+Restaurant_863,Yes,No,4.4,492,300.0,Delivery,Jayanagar,Biryani
+Restaurant_864,Yes,No,4.4,1153,150.0,Cafe,MG Road,Italian
+Restaurant_865,Yes,No,3.2,664,1200.0,Delivery,Marathahalli,Fast Food
+Restaurant_866,Yes,Yes,2.8,1036,800.0,Casual Dining,Indiranagar,Seafood
+Restaurant_867,Yes,Yes,2.8,1657,300.0,Quick Bites,MG Road,Continental
+Restaurant_868,No,Yes,4.2,870,600.0,Casual Dining,Koramangala,South Indian
+Restaurant_869,No,No,4.0,731,600.0,Delivery,HSR Layout,Seafood
+Restaurant_870,Yes,No,4.4,1129,200.0,Cafe,Bannerghatta Road,Bakery
+Restaurant_871,Yes,Yes,4.7,1398,150.0,Fine Dining,Whitefield,Seafood
+Restaurant_872,Yes,No,4.2,1605,700.0,Bar,BTM Layout,Biryani
+Restaurant_873,Yes,No,2.9,1730,700.0,Bar,Whitefield,Continental
+Restaurant_874,Yes,No,3.1,697,600.0,Bar,MG Road,Chinese
+Restaurant_875,Yes,No,4.5,1122,700.0,Fine Dining,Koramangala,Seafood
+Restaurant_876,No,No,,593,250.0,Bar,MG Road,Chinese
+Restaurant_877,No,No,2.7,1610,1200.0,Cafe,HSR Layout,Bakery
+Restaurant_878,Yes,Yes,4.2,885,200.0,Fine Dining,Marathahalli,Italian
+Restaurant_879,Yes,No,3.5,851,,Bar,BTM Layout,Chinese
+Restaurant_880,Yes,No,4.7,1215,700.0,Fine Dining,HSR Layout,Italian
+Restaurant_881,No,No,4.1,324,,Delivery,Bannerghatta Road,South Indian
+Restaurant_882,Yes,No,2.7,978,1500.0,Bakery,Bannerghatta Road,Continental
+Restaurant_883,Yes,No,4.8,1749,1000.0,Bakery,MG Road,Seafood
+Restaurant_884,No,Yes,3.1,1850,800.0,Cafe,Koramangala,South Indian
+Restaurant_885,Yes,No,3.3,955,1200.0,Dessert Parlor,HSR Layout,South Indian
+Restaurant_886,No,Yes,3.5,1490,300.0,Quick Bites,Electronic City,Cafe
+Restaurant_887,Yes,Yes,2.6,893,1500.0,Bar,Koramangala,North Indian
+Restaurant_888,Yes,No,3.7,1390,,Quick Bites,Marathahalli,Biryani
+Restaurant_889,Yes,No,2.8,1341,250.0,Fine Dining,Bannerghatta Road,Italian
+Restaurant_890,No,Yes,3.5,143,500.0,Quick Bites,MG Road,Cafe
+Restaurant_891,No,No,3.3,383,150.0,Cafe,Jayanagar,North Indian
+Restaurant_892,No,No,4.4,215,500.0,Cafe,Bannerghatta Road,Biryani
+Restaurant_893,Yes,Yes,,1384,200.0,Casual Dining,BTM Layout,Italian
+Restaurant_894,No,No,2.9,323,800.0,Bakery,Indiranagar,Continental
+Restaurant_895,Yes,No,3.4,1038,,Bar,Jayanagar,Biryani
+Restaurant_896,Yes,No,3.4,216,600.0,Casual Dining,MG Road,Seafood
+Restaurant_897,No,Yes,2.9,1515,1500.0,Quick Bites,Electronic City,South Indian
+Restaurant_898,Yes,No,4.4,950,150.0,Dessert Parlor,Jayanagar,North Indian
+Restaurant_899,Yes,No,4.2,1570,1500.0,Casual Dining,BTM Layout,North Indian
+Restaurant_900,Yes,No,3.0,182,600.0,Casual Dining,Koramangala,North Indian
+Restaurant_901,Yes,Yes,3.4,269,400.0,Cafe,Electronic City,Italian
+Restaurant_902,Yes,No,2.8,944,700.0,Dessert Parlor,Bannerghatta Road,Seafood
+Restaurant_903,Yes,Yes,4.0,1490,300.0,Fine Dining,Electronic City,Biryani
+Restaurant_904,Yes,No,2.8,869,1500.0,Quick Bites,HSR Layout,South Indian
+Restaurant_905,No,Yes,4.9,1635,1000.0,Casual Dining,BTM Layout,Seafood
+Restaurant_906,No,No,4.4,1542,600.0,Dessert Parlor,Jayanagar,Cafe
+Restaurant_907,Yes,No,3.4,1565,500.0,Bakery,HSR Layout,Continental
+Restaurant_908,Yes,No,3.9,466,400.0,Bar,Electronic City,Chinese
+Restaurant_909,Yes,Yes,4.7,304,300.0,Dessert Parlor,HSR Layout,Seafood
+Restaurant_910,Yes,No,3.8,1167,600.0,Bakery,Whitefield,Cafe
+Restaurant_911,Yes,No,2.9,110,1500.0,Quick Bites,BTM Layout,South Indian
+Restaurant_912,Yes,No,,1013,400.0,Dessert Parlor,Marathahalli,Chinese
+Restaurant_913,Yes,No,4.5,231,400.0,Bakery,Koramangala,Chinese
+Restaurant_914,Yes,No,4.0,1714,150.0,Dessert Parlor,Electronic City,Seafood
+Restaurant_915,Yes,No,4.1,1607,200.0,Dessert Parlor,BTM Layout,North Indian
+Restaurant_916,Yes,No,4.6,1745,400.0,Bar,Marathahalli,Fast Food
+Restaurant_917,No,No,4.6,1755,250.0,Bakery,Marathahalli,South Indian
+Restaurant_918,No,No,4.7,1615,200.0,Bakery,MG Road,North Indian
+Restaurant_919,Yes,No,2.7,1523,300.0,Casual Dining,HSR Layout,South Indian
+Restaurant_920,No,No,3.8,594,300.0,Quick Bites,Marathahalli,Fast Food
+Restaurant_921,Yes,Yes,4.3,1577,300.0,Bar,Whitefield,Continental
+Restaurant_922,No,No,4.3,1296,300.0,Dessert Parlor,BTM Layout,Fast Food
+Restaurant_923,No,No,4.0,1726,250.0,Dessert Parlor,Indiranagar,Bakery
+Restaurant_924,Yes,No,2.9,172,1500.0,Casual Dining,Indiranagar,Seafood
+Restaurant_925,Yes,Yes,4.4,972,600.0,Quick Bites,Electronic City,Seafood
+Restaurant_926,Yes,No,4.2,1030,800.0,Cafe,Bannerghatta Road,Cafe
+Restaurant_927,Yes,No,2.7,1178,1500.0,Bar,HSR Layout,North Indian
+Restaurant_928,Yes,No,3.6,1545,400.0,Casual Dining,Bannerghatta Road,Cafe
+Restaurant_929,Yes,Yes,2.9,545,300.0,Quick Bites,Marathahalli,Bakery
+Restaurant_930,Yes,No,3.3,547,1200.0,Bar,BTM Layout,Fast Food
+Restaurant_931,No,No,2.5,1944,200.0,Dessert Parlor,Electronic City,Seafood
+Restaurant_932,No,No,3.5,517,200.0,Quick Bites,Jayanagar,Italian
+Restaurant_933,Yes,No,3.8,1943,400.0,Quick Bites,Marathahalli,Fast Food
+Restaurant_934,Yes,No,4.0,913,,Fine Dining,HSR Layout,Fast Food
+Restaurant_935,Yes,No,4.1,214,1000.0,Quick Bites,Indiranagar,Bakery
+Restaurant_936,Yes,Yes,4.5,133,1000.0,Cafe,MG Road,Continental
+Restaurant_937,No,No,3.0,284,800.0,Quick Bites,BTM Layout,South Indian
+Restaurant_938,Yes,No,2.8,1149,600.0,Cafe,Koramangala,Bakery
+Restaurant_939,Yes,Yes,4.5,1944,400.0,Dessert Parlor,Bannerghatta Road,South Indian
+Restaurant_940,Yes,Yes,2.9,1462,1000.0,Cafe,Electronic City,Seafood
+Restaurant_941,Yes,No,,1872,1000.0,Bar,Bannerghatta Road,Bakery
+Restaurant_942,No,No,4.5,685,1000.0,Dessert Parlor,BTM Layout,South Indian
+Restaurant_943,No,No,3.7,1175,500.0,Dessert Parlor,Bannerghatta Road,Cafe
+Restaurant_944,Yes,No,4.9,330,1200.0,Cafe,BTM Layout,Bakery
+Restaurant_945,Yes,No,2.7,1561,1500.0,Bakery,Bannerghatta Road,Seafood
+Restaurant_946,Yes,No,3.2,1406,250.0,Casual Dining,Whitefield,Bakery
+Restaurant_947,No,Yes,4.0,1138,400.0,Delivery,Jayanagar,Seafood
+Restaurant_948,No,No,,893,700.0,Bakery,Marathahalli,Bakery
+Restaurant_949,Yes,No,4.7,1505,150.0,Quick Bites,Marathahalli,South Indian
+Restaurant_950,Yes,Yes,2.7,1307,1500.0,Fine Dining,HSR Layout,Continental
+Restaurant_951,No,Yes,3.8,898,,Delivery,Koramangala,Biryani
+Restaurant_952,Yes,No,3.9,1098,600.0,Quick Bites,Koramangala,South Indian
+Restaurant_953,No,No,4.1,1189,400.0,Bakery,HSR Layout,North Indian
+Restaurant_954,Yes,No,3.1,1212,400.0,Bakery,MG Road,Chinese
+Restaurant_955,Yes,No,3.4,77,150.0,Quick Bites,Marathahalli,Continental
+Restaurant_956,Yes,No,4.5,946,800.0,Dessert Parlor,MG Road,Cafe
+Restaurant_957,Yes,No,3.0,1625,150.0,Quick Bites,BTM Layout,Fast Food
+Restaurant_958,Yes,No,4.5,687,400.0,Fine Dining,BTM Layout,South Indian
+Restaurant_959,No,No,3.9,20,,Bakery,Indiranagar,Bakery
+Restaurant_960,Yes,Yes,4.3,565,800.0,Quick Bites,Bannerghatta Road,South Indian
+Restaurant_961,Yes,No,4.2,1207,,Cafe,Koramangala,Italian
+Restaurant_962,Yes,No,,1894,700.0,Delivery,Indiranagar,Continental
+Restaurant_963,Yes,No,3.9,1245,500.0,Cafe,Jayanagar,Biryani
+Restaurant_964,Yes,No,4.6,826,1200.0,Fine Dining,HSR Layout,Cafe
+Restaurant_965,Yes,No,3.5,1351,250.0,Quick Bites,HSR Layout,Italian
+Restaurant_966,No,Yes,4.8,178,300.0,Bar,BTM Layout,Seafood
+Restaurant_967,Yes,No,3.6,1811,200.0,Fine Dining,Marathahalli,Italian
+Restaurant_968,Yes,No,2.8,1135,150.0,Dessert Parlor,MG Road,South Indian
+Restaurant_969,Yes,Yes,3.4,1759,700.0,Cafe,Koramangala,Cafe
+Restaurant_970,No,Yes,4.8,1749,150.0,Cafe,Indiranagar,South Indian
+Restaurant_971,No,No,3.3,1082,1200.0,Casual Dining,MG Road,Seafood
+Restaurant_972,No,Yes,4.6,1350,150.0,Quick Bites,Indiranagar,Fast Food
+Restaurant_973,Yes,No,,904,300.0,Dessert Parlor,Bannerghatta Road,Cafe
+Restaurant_974,Yes,Yes,3.3,1644,1000.0,Bar,Jayanagar,Fast Food
+Restaurant_975,Yes,No,2.7,1920,1500.0,Cafe,Jayanagar,Continental
+Restaurant_976,Yes,Yes,4.2,668,1000.0,Cafe,MG Road,Continental
+Restaurant_977,Yes,No,3.2,190,500.0,Dessert Parlor,MG Road,Fast Food
+Restaurant_978,Yes,No,4.4,1223,800.0,Fine Dining,MG Road,Continental
+Restaurant_979,Yes,No,3.6,1335,150.0,Fine Dining,Indiranagar,Cafe
+Restaurant_980,Yes,Yes,3.7,707,600.0,Quick Bites,Bannerghatta Road,Bakery
+Restaurant_981,No,No,4.4,1058,1000.0,Bakery,Whitefield,North Indian
+Restaurant_982,Yes,No,3.4,378,1200.0,Casual Dining,MG Road,Continental
+Restaurant_983,Yes,No,3.6,386,400.0,Cafe,Marathahalli,Continental
+Restaurant_984,No,Yes,3.4,1781,,Bakery,Koramangala,South Indian
+Restaurant_985,Yes,Yes,,236,700.0,Bakery,Koramangala,Fast Food
+Restaurant_986,No,No,3.8,615,600.0,Casual Dining,Indiranagar,Chinese
+Restaurant_987,Yes,No,4.4,1542,300.0,Bakery,MG Road,Biryani
+Restaurant_988,Yes,No,3.4,282,300.0,Bakery,BTM Layout,Italian
+Restaurant_989,No,No,3.8,0,500.0,Fine Dining,HSR Layout,Continental
+Restaurant_990,No,No,4.1,1754,500.0,Fine Dining,Whitefield,Italian
+Restaurant_991,No,Yes,3.1,463,800.0,Delivery,Marathahalli,Cafe
+Restaurant_992,Yes,No,3.2,1253,1500.0,Bar,Bannerghatta Road,Chinese
+Restaurant_993,Yes,Yes,4.7,966,400.0,Quick Bites,BTM Layout,Biryani
+Restaurant_994,Yes,No,4.2,171,700.0,Bakery,Jayanagar,Fast Food
+Restaurant_995,Yes,No,3.9,1110,400.0,Delivery,BTM Layout,North Indian
+Restaurant_996,No,No,4.1,1576,200.0,Bar,Indiranagar,Biryani
+Restaurant_997,Yes,Yes,2.6,1146,500.0,Delivery,Whitefield,Biryani
+Restaurant_998,No,Yes,4.0,842,800.0,Delivery,Electronic City,North Indian
+Restaurant_999,Yes,Yes,3.7,1321,250.0,Quick Bites,Electronic City,Bakery
