@@ -1,7 +1,4 @@
-# =============================================================
 # Exploratory Data Analysis on Zomato Bangalore Restaurant Data
-# Author: Kavish Rathod
-# =============================================================
 
 import pandas as pd
 import numpy as np
@@ -21,21 +18,15 @@ plt.rcParams.update({
     "axes.titleweight": "bold",
 })
 
-# ══════════════════════════════════════════════════════════════
 # 1. LOAD DATA
-# ══════════════════════════════════════════════════════════════
-print("=" * 60)
 print("  Zomato Bangalore – Exploratory Data Analysis")
-print("=" * 60)
 
 df = pd.read_csv("zomato.csv")
 print(f"\n[INFO] Dataset shape : {df.shape}")
 print(f"[INFO] Columns       : {list(df.columns)}\n")
 print(df.head())
 
-# ══════════════════════════════════════════════════════════════
 # 2. DATA OVERVIEW
-# ══════════════════════════════════════════════════════════════
 print("\n── Data Types ──────────────────────────────────────────")
 print(df.dtypes)
 
@@ -48,9 +39,7 @@ print(missing_df[missing_df["Missing Count"] > 0])
 print("\n── Statistical Summary ─────────────────────────────────")
 print(df.describe())
 
-# ══════════════════════════════════════════════════════════════
 # 3. DATA CLEANING
-# ══════════════════════════════════════════════════════════════
 print("\n── Data Cleaning ───────────────────────────────────────")
 
 # Rename for convenience
@@ -83,9 +72,7 @@ print(f"[CLEAN] Detected {outlier_mask.sum()} vote outliers (retained for analys
 
 print(f"\n[INFO] Clean dataset shape: {df.shape}")
 
-# ══════════════════════════════════════════════════════════════
-# 4. VISUALISATIONS  (saved to /plots/)
-# ══════════════════════════════════════════════════════════════
+# 4. VISUALISATIONS  (saved to /Plots/)
 import os
 os.makedirs("plots", exist_ok=True)
 
@@ -176,9 +163,7 @@ plt.savefig("plots/07_correlation_heatmap.png", dpi=150)
 plt.close()
 print("[PLOT] 07_correlation_heatmap.png saved")
 
-# ══════════════════════════════════════════════════════════════
 # 5. KEY INSIGHTS
-# ══════════════════════════════════════════════════════════════
 print("\n" + "=" * 60)
 print("  KEY INSIGHTS")
 print("=" * 60)
@@ -216,4 +201,4 @@ print(f"""
      popular restaurants tend to maintain quality.
 """)
 
-print("[DONE] EDA complete. All plots saved in /plots/ folder.")
+print("[DONE] EDA complete. All plots saved in /Plots/ folder.")
