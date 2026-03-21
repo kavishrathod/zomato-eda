@@ -1,8 +1,7 @@
 # 🍽️ Exploratory Data Analysis – Zomato Bangalore Restaurants
 
-**Author:** Kavish Rathod  
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn  
-**Dataset:** Zomato Bangalore Restaurant Dataset (1000 records, 9 features)
+**Dataset:** Zomato Bangalore Restaurant Dataset (7,105 records, 12 features)
 
 ---
 
@@ -17,18 +16,9 @@ To perform end-to-end Exploratory Data Analysis on the Zomato Bangalore dataset 
 ```
 zomato-eda/
 │
-├── zomato.csv              # Dataset
-├── zomato_eda.py           # Main EDA script
-├── README.md               # Project documentation
-│
-└── Plots/
-    ├── 01_rating_distribution.png
-    ├── 02_online_order_vs_rating.png
-    ├── 03_top_locations.png
-    ├── 04_cuisine_popularity.png
-    ├── 05_cost_distribution.png
-    ├── 06_rest_type_vs_rating.png
-    └── 07_correlation_heatmap.png
+├── Zomato_Restaurants_Dataset.csv   # Dataset
+├── zomato_eda.ipynb                 # Main EDA notebook
+├── README.md                        # Project documentation
 ```
 
 ---
@@ -36,12 +26,14 @@ zomato-eda/
 ## 🔍 Steps Performed
 
 ### 1. Data Loading & Overview
-- Loaded dataset with 1000 rows and 9 columns
+- Loaded dataset with 7,105 rows and 12 columns
 - Inspected data types, shape, and column descriptions
 
 ### 2. Data Cleaning
-- Identified and filled **80 missing ratings** with median value
-- Identified and filled **40 missing cost values** with median value
+- Renamed columns for easier access
+- Dropped unnamed/irrelevant columns
+- Cleaned location column (extracted primary area from combined strings)
+- Extracted primary cuisine and primary restaurant type from combined values
 - Removed duplicate rows
 - Detected outliers in votes column using IQR method
 
@@ -54,37 +46,24 @@ zomato-eda/
 | Top Locations | Bar chart of top 10 locations by restaurant count |
 | Cuisine Popularity | Horizontal bar chart of top 10 most popular cuisines |
 | Cost Distribution | Histogram of approximate cost for two people |
-| Restaurant Type vs Rating | Avg rating by restaurant type |
+| Restaurant Type vs Rating | Top 10 restaurant types by average rating |
 | Correlation Heatmap | Correlation between rating, votes, and cost |
 
 ---
 
 ## 💡 Key Insights
 
-1. **Rating Distribution**
-   - Average restaurant rating is **3.70 / 5**
-   - Most restaurants fall between **3.5 – 4.5** rating range
+1. **Ratings** - Most restaurants (78.7%) are rated between 3.0 and 4.2. The average rating is 3.48, suggesting moderate satisfaction overall across Bangalore.
 
-2. **Online Ordering Impact**
-   - Restaurants with online ordering show comparable ratings to those without
-   - Online ordering availability is high (~65% of restaurants)
+2. **Online Ordering** - Restaurants that accept online orders have a slightly higher average rating (3.55) compared to those that don't (3.41). About 52.5% of restaurants offer online ordering.
 
-3. **Location Trends**
-   - Areas like **Koramangala, Indiranagar, and Whitefield** have the highest restaurant density
-   - These are prime tech and commercial hubs driving food demand
+3. **Location** - Byresandra, Bannerghatta Road and Brookefield have the highest number of restaurants, indicating strong dining demand in these areas.
 
-4. **Cuisine Trends**
-   - **North Indian and South Indian** cuisines are most prevalent
-   - Fast Food and Chinese are rapidly growing categories
+4. **Cuisines** - North Indian cuisine is by far the most popular (1,943 restaurants), followed by South Indian and Chinese. This reflects Bangalore's diverse food culture.
 
-5. **Pricing Patterns**
-   - Average cost for two people is approximately **₹618**
-   - Majority of restaurants target the **₹200–₹600** budget segment
-   - Fine Dining restaurants dominate the ₹1000+ range
+5. **Pricing** - Average cost for two people is ₹536, with median at ₹400. About 68% of restaurants fall in the ₹200–₹600 range, showing budget-friendly dining dominates.
 
-6. **Votes & Ratings Correlation**
-   - Higher-voted restaurants tend to maintain slightly better ratings
-   - Indicates popular restaurants sustain quality over time
+6. **Votes vs Rating** - There is a moderate positive correlation (0.32) between votes and rating, and also between cost and rating (0.33). Higher-priced restaurants tend to get better ratings and more engagement.
 
 ---
 
@@ -98,11 +77,9 @@ cd zomato-eda
 # Install dependencies
 pip install pandas numpy matplotlib seaborn
 
-# Run the analysis
-python zomato_eda.py
+# Open notebook
+jupyter notebook zomato_eda.ipynb
 ```
-
-All plots will be saved in the `plots/` folder.
 
 ---
 
@@ -115,12 +92,6 @@ All plots will be saved in the `plots/` folder.
 | NumPy | Numerical operations, outlier detection |
 | Matplotlib | Custom visualisations |
 | Seaborn | Statistical plots |
-
----
-
-## 📊 Sample Visualisations
-
-> Run the script to generate all plots in the `/plots` directory.
 
 ---
 
