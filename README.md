@@ -1,6 +1,6 @@
 # 🍽️ Exploratory Data Analysis – Zomato Bangalore Restaurants
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn  
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook  
 **Dataset:** Zomato Bangalore Restaurant Dataset (7,105 records, 12 features)
 
 ---
@@ -88,6 +88,7 @@ jupyter notebook zomato_eda.ipynb
 | Tool | Purpose |
 |------|---------|
 | Python 3.x | Core programming language |
+| Jupyter Notebook | Interactive development and visualization |
 | Pandas | Data loading, cleaning, manipulation |
 | NumPy | Numerical operations, outlier detection |
 | Matplotlib | Custom visualisations |
